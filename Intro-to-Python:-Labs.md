@@ -1,5 +1,4 @@
 # ![Intro to Python: Labs](../blob/master/assets/img/logo-128.png?raw=true)
-# Intro to Python: Labs
 
 Welcome to the Python lab! Work through this sheet in pairs, making sure that you understand
 each bit of code before you move on.
