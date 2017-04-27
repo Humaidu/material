@@ -1,6 +1,5 @@
 # ![IoT in Africa](../blob/master/assets/img/logo-128.png?raw=true) 
 
-# Introduction to Python
 ## Teaching Materials
 
 [Teaching Slides](https://gitpitch.com/iotinafrica/material?p=intro-to-python)
