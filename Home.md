@@ -1,5 +1,8 @@
 # July 2017
 
-| Week | Topic | Present |
-|------|-------|---------|
-|  1   | [[Introduction to Python|intro-to-python]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-python) |
+| Topic | Present |
+|-------|---------|
+| [[Introduction to IoT in Africa|intro-to-iotinafrica]] | [here](gitpitch.com/iotinafrica/material?p=intro-to-iotinafrica) |
+| [[Introduction to Raspberry Pi|intro-to-raspberry-pi]] | [here](gitpitch.com/iotinafrica/material?p=intro-to-raspberry-pi) |
+| [[Introduction to Python|intro-to-python]] | [here](gitpitch.com/iotinafrica/material?p=intro-to-python) |
+| [[Introduction to Python|intro-to-git-and-github]] | [here](gitpitch.com/iotinafrica/material?p=intro-to-git-and-github) |
