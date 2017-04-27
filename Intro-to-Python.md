@@ -3,7 +3,7 @@
 ## Teaching Materials
 
 [Teaching Slides](https://gitpitch.com/iotinafrica/material?p=intro-to-python)
-| [Labs](labs/)
+| [[Labs|intro-to-python-labs]]
 
 ## Introduction
 
