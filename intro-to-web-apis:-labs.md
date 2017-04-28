@@ -1,4 +1,4 @@
-# ![Intro to Web APIs: Exploratory session](../blob/master/assets/img/logo-128.png?raw=true) Intro to Web APIs: Exploratory session
+# ![Intro to Web APIs: Exploratory session](../blob/master/assets/img/logo-128.png?raw=true)
 
 Welcome to the Web APIs explore session. For the rest of the day, we want you to work in small groups 
 (maybe double up your pairs) to build an application that does something interesting using the programmable
