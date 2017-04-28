@@ -2,7 +2,7 @@
 
 | Topic | Present | Slides? | Labs? | Wiki? |
 |-------|---------|---------|-------|-------|
-| [[Introduction to IoT in Africa|intro-to-iotinafrica]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-iotinafrica) | 
+| [[Introduction to IoT in Africa|intro-to-iotinafrica]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-iotinafrica) | Done |
 | [[Introduction to Raspberry Pi|intro-to-raspberry-pi]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-raspberry-pi) |
 | [[Introduction to Python|intro-to-python]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-python) | Done
 | [[Introduction to Git and GitHub |intro-to-git-and-github]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-git-and-github) |
