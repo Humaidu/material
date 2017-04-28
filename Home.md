@@ -6,7 +6,7 @@
 | [[Introduction to Raspberry Pi|intro-to-raspberry-pi]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-raspberry-pi) | | | Done |
 | [[Introduction to Python|intro-to-python]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-python) | Done | Done | Done |
 | [[Introduction to Git and GitHub |intro-to-git-and-github]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-git-and-github) |
-| [[Introduction to Web APIs |intro-to-web-apis]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-web-apis) |
+| [[Introduction to Web APIs |intro-to-web-apis]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-web-apis) | | | Done |
 | [[Introduction to Internet of Things |intro-to-internet-of-things]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-internet-of-things) |
 | [[Advanced Python |advanced-python]] | [here](https://gitpitch.com/iotinafrica/material?p=advanced-python) |
 | Intro to Platforms |
