@@ -9,7 +9,7 @@
 This is it - the beginning of project week and the final and most intense week in our programme.
 
 In this module, we build on all the work we've done in the past two weeks - advanced programming
-techniques, distributed calc using Web APIs, discrete eleconics, and the hardware course, and 
+techniques, distributed calc using Web APIs, discrete electronics, and the hardware course, and 
 introduce the *Internet of Things*.
 
 IoT is really where the programming wheels hit the real-world road - it's what drives the Amazon Dash,
