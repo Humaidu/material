@@ -8,7 +8,7 @@
 | [[Introduction to Git and GitHub |intro-to-git-and-github]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-git-and-github) |
 | [[Introduction to Web APIs |intro-to-web-apis]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-web-apis) | | | Done |
 | [[Introduction to Internet of Things |intro-to-internet-of-things]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-internet-of-things) |
-| [[Advanced Python |advanced-python]] | [here](https://gitpitch.com/iotinafrica/material?p=advanced-python) |
+| [[Advanced Python |advanced-python]] | [here](https://gitpitch.com/iotinafrica/material?p=advanced-python) | | | Done |
 | Intro to Platforms |
 | Raspberry Pi and GPIO |
 | Distributed Systems |
