@@ -2,7 +2,7 @@
 ## Teaching Materials
 
 [Teaching Slides](https://gitpitch.com/iotinafrica/intro-to-web-apis) |
-[Labs](/labs/README.md)
+[[Labs|intro-to-web-apis:-labs]]
 
 ## Introduction
 
