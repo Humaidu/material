@@ -11,3 +11,4 @@
 | [[Advanced Python |advanced-python]] | [here](https://gitpitch.com/iotinafrica/material?p=advanced-python) |
 | Intro to Platforms |
 | Raspberry Pi and GPIO |
+| Distributed Systems |
