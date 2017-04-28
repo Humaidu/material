@@ -2,7 +2,7 @@
 
 ## Teaching Materials
 
-[Teaching Slides](https://gitpitch.com/iotinafrica//material?p=intro-to-internet-of-things)
+[Teaching Slides](https://gitpitch.com/iotinafrica/material?p=intro-to-internet-of-things)
 
 ## Introduction
 
