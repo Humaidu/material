@@ -1,7 +1,7 @@
 # ![Intro to web APIs](../blob/master/assets/img/logo-128.png?raw=true) Intro to web APIs
 ## Teaching Materials
 
-[Teaching Slides](https://gitpitch.com/iotinafrica/intro-to-web-apis) |
+[Teaching Slides](https://gitpitch.com/iotinafrica/material?p=/intro-to-web-apis) |
 [[Labs|intro-to-web-apis:-labs]]
 
 ## Introduction
