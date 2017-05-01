@@ -12,4 +12,4 @@
 | Intro to Platforms |
 | Raspberry Pi and GPIO |
 | Distributed Systems |
-| Building a Web Application |
+| [[Building a Web Application |building-a-web-application]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-internet-of-things) |
