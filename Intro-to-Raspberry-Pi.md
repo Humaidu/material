@@ -2,6 +2,7 @@
 ## Teaching Materials
 
 [Teaching Slides](https://gitpitch.com/iotinafrica/material?p=intro-to-raspberry-pi)
+| [Labs](Introduction-to-Raspberry-Pi:-Labs)
 
 ## Introduction
 
