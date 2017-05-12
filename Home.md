@@ -10,6 +10,6 @@
 | [[Introduction to Internet of Things |intro-to-internet-of-things]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-internet-of-things) |
 | [[Advanced Python |advanced-python]] | [here](https://gitpitch.com/iotinafrica/material?p=advanced-python) | | | Done |
 | [[Hosting Platforms |hosting-platforms]] | [here](https://gitpitch.com/iotinafrica/material?p=hosting-platforms) | | | Done |
-| Raspberry Pi and GPIO |
-| Distributed Systems |
+| [[Raspberry Pi and GPIO|Raspberry-Pi-And-GPIO]] |
+| [[Distributed Systems|Distributed-Systems]] |
 | [[Building a Web Application |building-a-web-application]] | [here](https://gitpitch.com/iotinafrica/material?p=building-a-web-application) | Done | Internal | Done |
