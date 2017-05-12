@@ -2,6 +2,7 @@
 ## Teaching Materials
 
 [Teaching Slides](https://gitpitch.com/iotinafrica/material?p=building-a-web-application)
+| [Labs](Building-a-Web-Application:-Labs)
 
 ## Introduction
 The aim of this module is to:
