@@ -13,3 +13,5 @@
 | [[Raspberry Pi and GPIO|Raspberry-Pi-And-GPIO]] |
 | [[Distributed Systems|Distributed-Systems]] |
 | [[Building a Web Application |building-a-web-application]] | [here](https://gitpitch.com/iotinafrica/material?p=building-a-web-application) | Done | Internal | Done |
+| [[MQTT with Python & Pi| mqtt-with-python-and-pi ]] | | | |
+| [[Cloud IoT platforms |cloud-iot-platforms]] ||||
