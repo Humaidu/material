@@ -3,6 +3,7 @@
 ## Teaching Materials
 
 [Teaching Slides](https://gitpitch.com/iotinafrica/material?p=intro-to-git-and-github)
+| [Labs](intro-to-git-and-github:-labs)
 
 ## Introduction
 
