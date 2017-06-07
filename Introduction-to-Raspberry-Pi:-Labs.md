@@ -9,4 +9,11 @@ Push the SD card firmly into your Raspberry Pi. Plug the Keyboard and Mouse into
 
 Finally, using the cable that comes with your Pi, plug it in! Check you can see the green light on the board, and you should see the Raspberry Pi logo on the screen. 
 
+## Install Raspbian
+*Raspbian* is the name of the Operating System that comes free with the Raspberry Pi. It includes a GUI, which we'll use the most. It also comes with a powerful commandline which we'll see, too.
+
+You can install Raspbian by selecting it and clicking the "Install" button at the top of the screen. The installation might take quite a while!
+
+## Log in & find out more! 
+
 * Install Slack & join our #iotinafrica channel
