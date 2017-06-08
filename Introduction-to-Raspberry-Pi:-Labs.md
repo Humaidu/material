@@ -24,6 +24,10 @@ Then enter these commands:
     sudo rpi-update
     sudo shutdown -r now
 
+Once your raspberry pi has rebooted, find out:
+* How do you change your password? Choose a good password for your account
+* what does `sudo` do? Type `man sudo` in a terminal window to read the *manual* page for the sudo command.
+
 ## Play
 
 Go ahead and play around - it's your computer now! Try these things:
