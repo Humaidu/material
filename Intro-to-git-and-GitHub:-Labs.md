@@ -1,7 +1,7 @@
 Investigate github!
 
 1. Find a project that you know about.
-  1. Look at it's *code*, *issues*, and *pull requests*
+    1. Look at it's *code*, *issues*, and *pull requests*
 
 1. Find a project that you like and fork it.
   1. clone it into your local repo!
