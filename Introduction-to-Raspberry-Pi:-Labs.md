@@ -58,3 +58,8 @@ Go ahead and play around - it's your computer now! Try these things:
     * Make sure to save a bookmark
     * Say hi
     * Install it on your phone, too - chat from anywhere!
+
+## Install
+
+When you get a moment, please install the following pieces of software:
+* postgresql
