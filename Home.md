@@ -7,10 +7,10 @@
 | [[Introduction to Python|intro-to-python]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-python) | Done | Done | Done |
 | [[Introduction to Git and GitHub |intro-to-git-and-github]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-git-and-github) | Done | | Done |
 | [[Web APIs |web-apis]] | [here](https://gitpitch.com/iotinafrica/material?p=web-apis) | Done | Internal | Done |
-| [[Introduction to Internet of Things |intro-to-internet-of-things]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-internet-of-things) |
-| [[Advanced Python |advanced-python]] | [here](https://gitpitch.com/iotinafrica/material?p=advanced-python) | | | Done |
-| [[Hosting Platforms |hosting-platforms]] | [here](https://gitpitch.com/iotinafrica/material?p=hosting-platforms) | | | Done |
 | [[Raspberry Pi and GPIO|Raspberry-Pi-And-GPIO]] |
+| [[Advanced Python |advanced-python]] | [here](https://gitpitch.com/iotinafrica/material?p=advanced-python) | | | Done |
+| [[Introduction to Internet of Things |intro-to-internet-of-things]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-internet-of-things) |
+| [[Hosting Platforms |hosting-platforms]] | [here](https://gitpitch.com/iotinafrica/material?p=hosting-platforms) | | | Done |
 | [[Distributed Systems|Distributed-Systems]] |
 | [[Building a Web Application |building-a-web-application]] | [here](https://gitpitch.com/iotinafrica/material?p=building-a-web-application) | Done | Internal | Done |
 | [[MQTT with Python & Pi| mqtt-with-python-and-pi ]] | | | |
