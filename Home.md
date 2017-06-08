@@ -18,5 +18,5 @@
 |  3  | [[Hosting Platforms |hosting-platforms]] | [here](https://gitpitch.com/iotinafrica/material?p=hosting-platforms) | | | Done |
 |  4  | [[Distributed Systems|Distributed-Systems]] |
 |  5  | [[Building a Web Application |building-a-web-application]] | [here](https://gitpitch.com/iotinafrica/material?p=building-a-web-application) | Done | Internal | Done |
-| [[MQTT with Python & Pi| mqtt-with-python-and-pi ]] | | | |
-| [[Cloud IoT platforms |cloud-iot-platforms]] ||||
+|| [[MQTT with Python & Pi| mqtt-with-python-and-pi ]] | | | |
+|| [[Cloud IoT platforms |cloud-iot-platforms]] ||||
