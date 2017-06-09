@@ -69,3 +69,6 @@ Go ahead and play around - it's your computer now! Try these things:
 
 When you get a moment, please install the following pieces of software:
 * postgresql
+
+## I'm brave!
+If you're really brave, or you've used linux before, why not install a different distro? There's a bunch available [here](https://www.raspberrypi.org/downloads/). 
