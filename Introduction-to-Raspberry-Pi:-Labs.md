@@ -14,6 +14,10 @@ Finally, using the cable that comes with your Pi, plug it in! Check you can see 
 
 You can install Raspbian by selecting it and clicking the "Install" button at the top of the screen. The installation might take quite a while!
 
+## Install
+
+First, connect to the wifi!
+
 Before we really get started, there's two things we need to do together. Use the mouse to click the raspberry icon in the top-left corner of the screen, then find the Terminal in the Accessories menu.
 
 Then enter these commands:
