@@ -34,7 +34,7 @@ Some of them might take quite a while - we're downloading the latest version of 
 
 Once your raspberry pi has rebooted, re-open the Terminal app. Use the `whoami` command to find out your username - what is it?
 
-The Raspberry Pi comes with a default user called *pi*, who has the password *raspberry*. Let's add a new user and do some setup. Enter the following commands, replacing "<username>" with a username you want to use. Try your first name!
+The Raspberry Pi comes with a default user called *pi*, who has the password *raspberry*. Let's add a new user and do some setup. Enter the following commands, replacing "\<username\>" with a username you want to use. Try your first name!
 
     sudo adduser <username>
     sudo usermod -a -G adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,spi,i2c,gpio <username>
