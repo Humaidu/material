@@ -6,7 +6,7 @@
 
 ## Introduction
 
-The aim of this course is to introduce the capabilities of the Raspberry Pi as a micro computer, and more specifically the hardware and software specifications of the Pi 2B.
+The aim of this course is to introduce the capabilities of the Raspberry Pi as a micro computer, and more specifically the hardware and software specifications of the Pi 3(B).
 
 We discuss the aims of the Pi project, the hardware and software included with the Pi, the fundamentals of the Raspbian Operating System including some simple shell commands, and the use of the Pi as a platform for local development.
 
