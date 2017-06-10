@@ -68,7 +68,12 @@ Go ahead and play around - it's your computer now! Try these things:
 ## Install
 
 When you get a moment, please install the following pieces of software:
-* postgresql
+* postgresql, a database: 
+    sudo apt-get instal postgresql
+* Visual Studio Code, an IDE:
+    . <( wget -O - https://code.headmelted.com/installers/apt.sh )
 
 ## I'm brave!
-If you're really brave, or you've used linux before, why not install a different distro? There's a bunch available [here](https://www.raspberrypi.org/downloads/). 
+If you're really brave, or you've used linux before, why not install a different distro? There's a bunch available [here](https://www.raspberrypi.org/downloads/).
+
+If you know a bit of Python already, why not explore the GPIO pins on your Raspberry Pi? We'll get there next week but feel free to look ahead: details [here](https://www.raspberrypi.org/blog/gpio-zero-a-friendly-python-api-for-physical-computing/)
