@@ -68,6 +68,7 @@ Go ahead and play around - it's your computer now! Try these things:
 ## Install
 
 When you get a moment, please install the following pieces of software:
+
 postgresql, a database:
 
     sudo apt-get instal postgresql
