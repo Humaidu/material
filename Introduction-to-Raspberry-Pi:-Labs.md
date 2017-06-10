@@ -39,7 +39,7 @@ The Raspberry Pi comes with a default user called *pi*, who has the password *ra
     sudo adduser <username>
     sudo usermod -a -G adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,spi,i2c,gpio <username>
 
-These commands will ask you for a new password. Choose something only you know, that you can remember easily!
+These commands will ask you for a new password, along with some other details. Choose something only you know, that you can remember easily!
 
 Now, from the Applications menu, find *Raspberry Pi Configuration* under *Preferences*. Uncheck the box next to "Login as user 'pi'". This means you'll now have to enter your username and password whenever you want to login to your Pi. You'll also now have to enter your password whenever you use the "sudo" command :)
 
@@ -68,9 +68,12 @@ Go ahead and play around - it's your computer now! Try these things:
 ## Install
 
 When you get a moment, please install the following pieces of software:
-* postgresql, a database: 
+* postgresql, a database:
+
     sudo apt-get instal postgresql
+
 * Visual Studio Code, an IDE:
+
     . <( wget -O - https://code.headmelted.com/installers/apt.sh )
 
 ## I'm brave!
