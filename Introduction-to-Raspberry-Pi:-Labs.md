@@ -87,7 +87,7 @@ Mosquitto, an MQTT client we'll be using next week:
 
 Docker, a toolkit for running applications in isolation:
 
-    sudo apt-get install docker
+    curl -sSL https://get.docker.com | sh
 
 ## I'm brave!
 If you're really brave, or you've used linux before, why not install a different distro? There's a bunch available [here](https://www.raspberrypi.org/downloads/).
