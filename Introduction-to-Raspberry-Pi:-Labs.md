@@ -52,7 +52,10 @@ This has deleted the original default user. Now someone needs to know your passw
 ## Discover
 
 Find out:
-* what does `sudo` do? Type `man sudo` in a terminal window to read the *manual* page for the sudo command.
+* What does `sudo` do? Type `man sudo` in a terminal window to read the *manual* page for the sudo command.
+* How do I add another desktop?
+* In the `terminal`, what does the command `pwd` do?
+    * What does `cd` do? What about `ls`?
 
 ## Play
 
