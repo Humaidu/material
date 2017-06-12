@@ -81,6 +81,10 @@ Visual Studio Code, an IDE:
     sudo -s
     . <( wget -O - https://code.headmelted.com/installers/apt.sh )
 
+Mosquitto, an MQTT client we'll be using next week:
+
+    sudo apt-get install mosquitto mosquitto-clients python-mosquitto
+
 ## I'm brave!
 If you're really brave, or you've used linux before, why not install a different distro? There's a bunch available [here](https://www.raspberrypi.org/downloads/).
 
