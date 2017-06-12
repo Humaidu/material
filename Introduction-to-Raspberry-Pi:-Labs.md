@@ -85,6 +85,10 @@ Mosquitto, an MQTT client we'll be using next week:
 
     sudo apt-get install mosquitto mosquitto-clients python-mosquitto
 
+Docker, a toolkit for running applications in isolation:
+
+    sudo apt-get install docker
+
 ## I'm brave!
 If you're really brave, or you've used linux before, why not install a different distro? There's a bunch available [here](https://www.raspberrypi.org/downloads/).
 
