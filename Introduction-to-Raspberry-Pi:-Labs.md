@@ -75,6 +75,7 @@ postgresql, a database:
 
 Visual Studio Code, an IDE:
 
+    sudo -s
     . <( wget -O - https://code.headmelted.com/installers/apt.sh )
 
 ## I'm brave!
