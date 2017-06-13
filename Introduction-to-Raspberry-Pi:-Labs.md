@@ -83,7 +83,7 @@ Visual Studio Code, an IDE:
 
 Mosquitto, an MQTT client we'll be using next week:
 
-    sudo apt-get install mosquitto mosquitto-clients python-mosquitto
+    sudo apt-get install mosquitto mosquitto-clients
 
 Docker, a toolkit for running applications in isolation:
 
