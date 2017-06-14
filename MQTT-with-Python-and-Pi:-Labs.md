@@ -1,4 +1,4 @@
-Install the nodered docker container: docker run -it --net="host" -v ~/node-red-data:/data --name nodered iotinafrica/node-red-docker:rpi
+Install the nodered docker container: docker run -it --net="host" --privileged --device /dev/mem -v ~/node-red-data:/data --name nodered iotinafrica/node-red-docker:rpi
 
 
     -i = interactive
@@ -25,7 +25,7 @@ update image:
 https://docs.docker.com/get-started/part2/#publish-the-image
 
     docker build -t mylocalnodered .
-    docker run --net="host" -it mylocalnodered
+    docker run docker run -it --net="host" --privileged --device /dev/mem -v ~/node-red-data:/data mylocalnodered
     docker tag mylocalnodered iotinafrica/node-red-docker:rpi
     docker push iotinafrica/node-red-docker:rpi
     docker run --net="host" -it iotinafrica/node-red-docker:rpi
