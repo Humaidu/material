@@ -1,4 +1,4 @@
-Install the nodered docker container: docker run -it -net="host" -p 1883:1883 -v ~/node-red-data:/data --name nodered nodered/node-red-docker:rpi
+Install the nodered docker container: docker run -it --net="host" -v ~/node-red-data:/data --name nodered iotinafrica/node-red-docker:rpi
 
 
     -i = interactive
