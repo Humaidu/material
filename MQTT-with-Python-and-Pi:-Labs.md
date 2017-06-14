@@ -20,3 +20,11 @@ sudo /etc/init.d/mosquitto start
 
 (create repo in hub.docker.com)
 docker pull iotinafrica/nodered
+
+update image:
+https://docs.docker.com/get-started/part2/#publish-the-image
+    docker build -t mylocalnodered .
+    docker run --net="host" -it mylocalnodered
+    docker tag mylocalnodered iotinafrica/node-red-docker:rpi
+    docker push iotinafrica/node-red-docker:rpi
+    docker run --net="host" -it iotinafrica/node-red-docker:rpi
