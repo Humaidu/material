@@ -23,6 +23,7 @@ docker pull iotinafrica/nodered
 
 update image:
 https://docs.docker.com/get-started/part2/#publish-the-image
+
     docker build -t mylocalnodered .
     docker run --net="host" -it mylocalnodered
     docker tag mylocalnodered iotinafrica/node-red-docker:rpi
