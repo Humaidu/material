@@ -74,12 +74,11 @@ When you get a moment, please install the following pieces of software:
 
 postgresql, a database:
 
-    sudo apt-get instal postgresql
+    sudo apt-get install postgresql
 
-Visual Studio Code, an IDE:
+Ninja, an IDE:
 
-    sudo -s
-    . <( wget -O - https://code.headmelted.com/installers/apt.sh )
+    sudo apt-get install ninja-ide
 
 Mosquitto, an MQTT client we'll be using next week:
 
