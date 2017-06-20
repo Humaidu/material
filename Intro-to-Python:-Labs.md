@@ -43,29 +43,48 @@ In a file called `person.py`:
 * Call both these functions and tell the user what you know about them!
 
 ##3: Loops
-In a file called `loops.py`:
+In a file called `while_loop.py`:
 * Write the following code:
+
     i = 0
     while(i < 10):
         i = i + 1
         print i
 
-## <a name="1"></a>1: Counting
-In the file `counting.py`, write a function called `count` that returns the numbers from 1 to 5
-in a `list`. Call your function from `__main__()` and print the results to make sure it's doing the
-right thing
+* Explain what's happening. Can you print the numbers from 7 to 19?
+* Can you print all the `even` numbers between 12 and 20?
+* Write a function called `evens` that takes two numbers and prints all the even numbers between them.
+* Write another function, `reverse_evens`, that does the same but prints the numbers in reverse.
 
-Remember to write a `docstring` for your module!
+In a file called `for_loop.py`:
+* Write the following code:
 
-## <a name="2"></a>2: More counting!
-In the file `counting_arrays.py`, write another function called `count` that takes a numerical
-argument `n` and returns the numbers from 1 to `n` in a `list`.
-The list should *include* the `n`. Again, write code in `__main()__`
-to test your new `count`.
+    for i in range(1,11):
+        print i
 
-## <a name="3"></a>3: Evens
-In the file `evens.py`, write a function called `evens` that takes a list of numbers and returns the sum
-of all the even numbers.
+* Explain what's happening. What is `i`? What is `range`?
+* Type the following code:
+
+    for j in [1, 2, 3]:
+        print j
+
+* Explain what's happening. How can you use `range` to do the same thing?
+* What's the `type` of `[1, 2, 3]`? What `type` of data does `range` return?
+
+## 4: If
+In a file called `conditional.py`:
+* Write the following code:
+
+    i = 8
+    if(i % 2):
+        print "Odd Number"
+    else:
+        print "Even Number"
+
+* What is `%`? What is `i % 2`?
+* Write a function called `evens` that takes a list of numbers and returns the sum of all the even numbers
+
+
 
 ## <a name="4"></a>4: Tuples
 In the file `tuples.py`, write two functions:
