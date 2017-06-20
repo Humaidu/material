@@ -6,8 +6,11 @@ each bit of code before you move on.
 If you get something wrong, let us know! Other people may have done the same thing; maybe you
 can help them.
 
-## Fork the repo
-In github, take a fork of `iotinafrica/intro-to-python`. We'll be working in the `labs` directory.
+## 1: Basics
+Try the following in the Python REPL. What do they do?
+    * print "hello"
+    * print 'hello'
+    * print hello
 
 ## <a name="1"></a>1: Counting
 In the file `counting.py`, write a function called `count` that returns the numbers from 1 to 5
