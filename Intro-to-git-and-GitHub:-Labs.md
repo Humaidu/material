@@ -1,8 +1,16 @@
-Investigate github!
+## 1: Create a GitHub profile
 
-1. Find a project that you know about.
-    1. Look at it's *code*, *issues*, and *pull requests*
+The first thing we want you to do is create your own GitHub profile. If you already have one, you can skip
+this step - go right ahead & fork the iotinafrica/intro-to-iotinafrica project in the [next section](#2)!
 
+* Browse to [github.com](github.com) and sign up for an account. Fill out the form, and you're done!
+* You might want to upload a picture, too. Find one you like, or take one on your phone and email it to yourself, then upload it to github.
+* Find some software projects hosted on github that you've used in the past and *star* them.
+* Go to the `iotinafrica` repository in github and *star* it :)
+
+## 2: Investigate github!
+
+1. Find a project that you know about: Look at it's *code*, *issues*, and *pull requests*
 1. Find a project that you like and fork it.
   1. clone it into your local repo!
 
