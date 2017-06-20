@@ -12,7 +12,7 @@ this step - go right ahead & fork the iotinafrica/intro-to-iotinafrica project i
 
 1. Find a project that you know about: Look at it's *code*, *issues*, and *pull requests*
 1. Find a project that you like and fork it.
-  1. clone it into your local repo!
+    1. clone it into your local repo!
 
 1. Create a file called `readme.md` in your HelloWorld directory
   1. Add some text which describes what the project does
