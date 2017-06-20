@@ -81,10 +81,13 @@ In a file called `conditional.py`, write the following code:
 
 * What is `%`? What is `i % 2`?
 * Write a function called `evens` that takes a list of numbers and returns the sum of all the even numbers
+* Copy your function that asks for a persons age. Tell them if you think they're old or not!
+* Write a function that asks the user for the *year* they were born, then calculates roughly how old they are. 
+* Find out the definition of a leap year. Write a function that asks the user the year they were born, and then tells them if that year was a leap year.
 
 
 
-## <a name="4"></a>4: Tuples
+## 5: Tuples
 In the file `tuples.py`, write two functions:
 * `partition` should take a number and return a 2-tuple, with the number on the *left* if it's even, and
 on the *right* if it's odd. The other slot should be filled with the constant `None`
@@ -93,6 +96,11 @@ on the *right* if it's odd. The other slot should be filled with the constant `N
 
 # Stretch
 Well done if you've come so far. Below are some harder labs that will take more time. Everyone should hopefully get at least this far :)
+
+## Stretch: Roman Numerals
+Write a function that takes a number and prints out its value in *Roman Numerals*
+
+e.g. 3 = III, 56 = LVI etc...
 
 ## <a name="complex"></a>Stretch: Complex numbers
 Investigate the `complex` numeric type. In a file called `mandelbrot.py`, write a function called `mandelbrot`
