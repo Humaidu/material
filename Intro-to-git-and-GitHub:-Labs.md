@@ -28,7 +28,7 @@ Remember the "Intro to Python" labs from the other day? Create a new github repo
 * Commit your files, then `push` them to github (origin)
 * Refresh your web browser to see your code there!
 
-## 4: Git questions.
+## 4: Git questions
 * Make a change to a local file and stage it. What does `git diff` show?
 * What does `git status -s` do?
 
