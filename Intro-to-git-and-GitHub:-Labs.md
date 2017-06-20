@@ -20,6 +20,14 @@ Create a file called `readme.md` in your HelloWorld directory
 1. Refresh the HelloWorld project page in your github account. What's different?
 1. Read about [MarkDown](https://guides.github.com/features/mastering-markdown/) and improve your readme!
 
+## 4: Upload all your "Python Intro" answers
+Remember the "Intro to Python" labs from the other day? Create a new github repo called "Intro_To_Python", then follow the instructions:
+* Initialise a local git repo in the directory where you kept your code
+* Add a new `remote` repository called origin
+* Stage all the files containing your answers (tip: what does `ls *.py` do?)
+* Commit your files, then `push` them to github (origin)
+* Refresh your web browser to see your code there!
+
 ## 4: Git questions.
 * Make a change to a local file and stage it. What does `git diff` show?
 * What does `git status -s` do?
