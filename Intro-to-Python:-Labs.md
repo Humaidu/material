@@ -43,8 +43,7 @@ In a file called `person.py`:
 * Call both these functions and tell the user what you know about them!
 
 ## 3: Loops
-In a file called `while_loop.py`:
-Write the following code:
+In a file called `while_loop.py`, write the following code:
 
     i = 0
     while(i < 10):
@@ -56,14 +55,14 @@ Write the following code:
 * Write a function called `evens` that takes two numbers and prints all the even numbers between them.
 * Write another function, `reverse_evens`, that does the same but prints the numbers in reverse.
 
-In a file called `for_loop.py`:
-* Write the following code:
+In a file called `for_loop.py`, write the following code:
 
     for i in range(1,11):
         print i
 
 * Explain what's happening. What is `i`? What is `range`?
-* Type the following code:
+
+Type the following code:
 
     for j in [1, 2, 3]:
         print j
@@ -72,8 +71,7 @@ In a file called `for_loop.py`:
 * What's the `type` of `[1, 2, 3]`? What `type` of data does `range` return?
 
 ## 4: If
-In a file called `conditional.py`:
-* Write the following code:
+In a file called `conditional.py`, write the following code:
 
     i = 8
     if(i % 2):
