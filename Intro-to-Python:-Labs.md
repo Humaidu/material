@@ -8,9 +8,15 @@ can help them.
 
 ## 1: Basics
 Try the following in the Python REPL. What do they do?
-* print "hello"
-* print 'hello'
-* print hello
+* `print "hello"`
+* `print 'hello'`
+* `print hello`
+
+Let's do some maths!
+* `4 + 5`
+* `8 * 3`
+* `4 / 3`
+* `4.0 / 3`
 
 ## <a name="1"></a>1: Counting
 In the file `counting.py`, write a function called `count` that returns the numbers from 1 to 5
