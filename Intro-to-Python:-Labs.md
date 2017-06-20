@@ -36,9 +36,19 @@ User input?
 * `age = int(raw_input("What is your age?"))`
 * `type(age)`
 
-Functions
+## 2: Functions
+In a file called `person.py`:
 * Write a function called `get_age` that asks the user for their age, and returns it as an `int`
-* Write another function called `get_name`
+* Write another function called `get_name`, which does the same but for the users age
+* Call both these functions and tell the user what you know about them!
+
+##3: Loops
+In a file called `loops.py`:
+* Write the following code:
+    i = 0
+    while(i < 10):
+        i = i + 1
+        print i
 
 ## <a name="1"></a>1: Counting
 In the file `counting.py`, write a function called `count` that returns the numbers from 1 to 5
