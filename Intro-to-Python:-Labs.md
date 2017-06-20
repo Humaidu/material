@@ -69,6 +69,22 @@ Type the following code:
 
 * Explain what's happening. How can you use `range` to do the same thing?
 * What's the `type` of `[1, 2, 3]`? What `type` of data does `range` return?
+* Write a function to produce the following output:
+
+    ****
+    ****
+    ****
+    ****
+
+* Write a function to produce the following output:
+
+    *
+    **
+    ***
+    ****
+    ***
+    **
+    *
 
 ## 4: If
 In a file called `conditional.py`, write the following code:
