@@ -85,9 +85,21 @@ In a file called `conditional.py`, write the following code:
 * Write a function that asks the user for the *year* they were born, then calculates roughly how old they are. 
 * Find out the definition of a leap year. Write a function that asks the user the year they were born, and then tells them if that year was a leap year.
 
+## 5: Lists
+In a file called `lists.py`, type the following code:
+
+    list = []
+    list.append(‘a’)
+    print list
+
+* Explain what each line does.
+* Using the python you've already learned, write a function that:
+  * Takes two arguments - the min and max values
+  * Returns a list of the even numbers between min and max
 
 
-## 5: Tuples
+
+## 6: Tuples
 In the file `tuples.py`, write two functions:
 * `partition` should take a number and return a 2-tuple, with the number on the *left* if it's even, and
 on the *right* if it's odd. The other slot should be filled with the constant `None`
