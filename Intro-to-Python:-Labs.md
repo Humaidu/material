@@ -80,13 +80,15 @@ Type the following code:
 
 * Write a function to produce the following output:
 
-    \*
-    \*\*
-    \*\*\*
-    \*\*\*\*
-    \*\*\*
-    \*\*
-    \*
+```
+    *
+    **
+    ***
+    ****
+    ***
+    **
+    *
+```
 
 ## 4: If
 In a file called `conditional.py`, write the following code:
