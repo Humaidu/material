@@ -42,7 +42,7 @@ In a file called `person.py`:
 * Write another function called `get_name`, which does the same but for the users age
 * Call both these functions and tell the user what you know about them!
 
-##3: Loops
+## 3: Loops
 In a file called `while_loop.py`:
 * Write the following code:
 
