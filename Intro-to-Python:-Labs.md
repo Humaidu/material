@@ -17,6 +17,28 @@ Let's do some maths!
 * `8 * 3`
 * `4 / 3`
 * `4.0 / 3`
+* `3 + 5 * 9`
+
+Adding Strings?
+* `"abc" + "def"`
+* `"hello" + " " + "world"`
+* `"123" + "5"`
+
+Variables!
+* `first = "hello"`
+* `second = "world"`
+* `first + " " + second`
+* `type(first)`
+
+User input?
+* `name = raw_input("What is your name?")`
+* `type(name)`
+* `age = int(raw_input("What is your age?"))`
+* `type(age)`
+
+Functions
+* Write a function called `get_age` that asks the user for their age, and returns it as an `int`
+* Write another function called `get_name`
 
 ## <a name="1"></a>1: Counting
 In the file `counting.py`, write a function called `count` that returns the numbers from 1 to 5
