@@ -21,20 +21,6 @@ this step - go right ahead & fork the iotinafrica/intro-to-iotinafrica project i
 * Browse to [github.com](github.com) and sign up for an account. Fill out the form, and you're done!
 * You might want to upload a picture, too.
 * Find some software projects hosted on github that you've used in the past and *star* them.
-
-## <a name="2"></a>Make a fork of the labs for this introductory project.
-
-* Hit the 'fork' button up at the top-right.
-* This will create a copy of our project that you can work on. If, in the future, you make a change that
-you think we should know about, you can send us that change and we'll choose if we like it.
-* Read more about forking git projects *here*
-
-## <a name="3"></a>Edit class list
-* Add your name and github profile link to the file `classlist`. It'll have at least one there, and
-depending on how quick you are to clone the project, maybe a couple more too :)
-* Check the change into your local repo then push to your github fork using `git push`
-* Go to the file on your github project page to make sure your changes have been pushed to github.
-* Create a `pull request` to the original repo (iotinafrica/intro-to-iotinafrica) for me to accept.
-* You might have to `merge` your changes! That's because someone else has made another pull request with their name. That's okay - you just need to make sure the file you submit contains *both* your names :)
+* Go to the `iotinafrica` repository in github and *star* it :)
 
 That's it! Your first taste of GitHub. We'll spend a lot more time talking about git and GitHub soon.
