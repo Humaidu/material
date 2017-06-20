@@ -44,7 +44,7 @@ In a file called `person.py`:
 
 ## 3: Loops
 In a file called `while_loop.py`:
-* Write the following code:
+Write the following code:
 
     i = 0
     while(i < 10):
