@@ -126,6 +126,11 @@ on the *right* if it's odd. The other slot should be filled with the constant `N
 * `partition_list`, which takes a list of numbers and returns a 2-tuple of *lists*. It should use your
 `partition` function to split the input list into the odd numbers and the even numbers.
 
+# Book
+Great work! If you got this far, you'll know enough Python to finish the programme. Well done!
+
+If you want to learn more, there's a great book that's available for *free* online. Take a look: [Think Python, by Allen B. Downey](http://greenteapress.com/wp/think-python/)
+
 # Stretch
 Well done if you've come so far. Below are some harder labs that will take more time. Everyone should hopefully get at least this far :)
 
