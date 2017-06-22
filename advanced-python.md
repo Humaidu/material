@@ -2,6 +2,7 @@
 ## Teaching Materials
 
 [Teaching Slides](https://gitpitch.com/iotinafrica/material?p=advanced-python)
+| [[Labs|advanced-python:-labs]]
 
 ## Introduction
 The aim of this module is twofold:
