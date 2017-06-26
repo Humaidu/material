@@ -1,3 +1,5 @@
+# ![Introduction to Linux: Labs](../blob/master/assets/img/logo-128.png?raw=true)
+
 Welcome to the Introduction to Linux lab!
 
 This time, we're going to discover how to use terminal commands to get work done. Let's get started!
@@ -32,6 +34,15 @@ Type some text! Say hello, write your name, where you come from, what you like t
 * Use the _WriteOut_ command to save your work (name the file with your first name), then the _Exit_ command to quit pico. You'll be right back at the command prompt.
 * My file is called `sam`. What happens when I type `cat sam` in the command prompt? Try that with the name of your file. Use the manpage for cat to figure out what's happening.
 * What happens when I type `less sam`? What's `less`? (Type `q` to escape!). Do you recognise `less`? It's how manpages are shown on the screen!
+* What happens when I type `head -1 sam`? What about `tail -1 sam`?
+
+## Advanced commands
+* `whoami` prints out your user ID!
+* `ps aux` prints details of every process running on your machine.
+* `grep` searches the input for lines matching a certain pattern. For example, `grep cheese sam` prints out all the lines in the file called _sam_ that contain the exact word "cheese".
+* Grep is very powerful. `grep ^I sam` prints out all the lines in the file _sam_ that _start with_ the character "I".
+* What do you think `grep UK$ sam` does?
+* You can use the backticks (\`) to execute a command and pass its output to the outer command. This sounds complex but it's really simple. If I type `grep \`whoami\` sam`, the `whoami` command is executed first. That returns "sam". That output is then substituted into the command, so `grep sam sam` is executed. See? Easy!
 
 ## Combining commands
 Some commands can be combined together. For example, `wc` is a simple command that shows a wordcount for a file - the number of characters, lines, and words in the file.
@@ -43,3 +54,25 @@ Some commands can be combined together. For example, `wc` is a simple command th
 * How many files and directories are in your `home` directory?
 * Enter `ls > files`. Then enter `cat files`. What happened? What is `files`? What does `>` do?
 * Enter `wc -l < files`. What does the number mean?
+* `tee` is very useful. Before passing its input through to its output, it also writes the input to a file. 
+
+## Building pipelines
+Linux commands are based on the philosophy of doing one job, and combining simple tasks into complex operations using `|`, `<`, and `>`.
+
+The good thing about building pipelines is that you can build all the bits separately, and then combine them at the end. Let's work through one together: save a list of all the running process that are owned by me.
+* Firstly, what command do we use to print out all the running processes? What does the output mean?
+* Next, how can I find out the ID of the current user?
+* Next, how can I filter the output of the processes command?
+* Great! Now let's combine all those.
+  * Firstly, list the processes.
+  * Pass the output of that to our filter command. This should also get the current userid.
+  * Finally, output the results of the filter to a file. 
+
+Work in groups to build pipelines to do the following:
+* Write a file called _everything_ which contains all the files and directories in your home directory, *and* a file called _directories_ which contains just the directories.
+  * HINT: You'll need to understand the output of `ls -la`.
+  * HINT: You'll need to use a `grep` pattern
+  * HINT: You'll need to use `tee` once.
+
+* Find out what `watch -n1 "ls -lart /"` does. Try it out - then it `ctrl`+`c` to exit. Write a similar pipeline to show the _one_ most recently edited file in your home directory every second. Open another terminal window and use the `echo` and `>` command to create a new file, and check that your pipeline's output changed.
+
