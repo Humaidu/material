@@ -8,7 +8,7 @@
 |  1  | Introduction to Linux | | | [[here| Introduction-to-Linux:-Labs]]
 |  2  | [[Introduction to Python|intro-to-python]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-python) | Done | [[here |Intro-to-Python:-Labs]] | Done |
 |  3  | [[Introduction to Git and GitHub |intro-to-git-and-github]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-git-and-github) | Done | [[here| Intro-to-git-and-GitHub:-Labs]] | Done |
-|  4  | [[Web APIs |web-apis]] | [here](https://gitpitch.com/iotinafrica/material?p=web-apis) | Done | Internal | Done |
+|  4  | [[Web APIs |web-apis]] | [here](https://gitpitch.com/iotinafrica/material?p=web-apis) | Done | [[here |web-apis:-labs]] | Done |
 |  5  | [[Raspberry Pi and GPIO|Raspberry-Pi-And-GPIO]] |
 
 ## Week 2
