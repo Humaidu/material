@@ -154,19 +154,3 @@ which takes the grid state as an argument and prints it to the console.
 
 Stretch: Write a single-player game where the computer plays against you. Are you better at Python than
 you are at tic-tac-toe? :)
-
-## Testing
-In the shell, in the `labs` directory, execute `python tests.py`. If you've followed all the instructions
-and done well in the labs, all the tests should pass. If you get test failures, the output will show you
-where you've gone wrong.
-
-Testing is an important part of any software development process. "Testing" code using `__main__()` methods
-is brittle, because you need to execute them manually - meaning you might forget and check in buggy code.
-
-In the next labs, we'll ask you to write your own tests *before* you even start writing code. This helps
-you think about the problem, and is a really great professional practice.
-
-## Finally
-If you've been working in pairs, you'll both want a copy of the code. The other person should also
-take a fork of the codeabase and should accept a `pull request` for the changes, so that everyone
-has working labs.
