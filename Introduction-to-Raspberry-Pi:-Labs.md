@@ -92,3 +92,6 @@ Docker, a toolkit for running applications in isolation:
 If you're really brave, or you've used linux before, why not install a different distro? There's a bunch available [here](https://www.raspberrypi.org/downloads/).
 
 If you know a bit of Python already, why not explore the GPIO pins on your Raspberry Pi? We'll get there next week but feel free to look ahead: details [here](https://www.raspberrypi.org/blog/gpio-zero-a-friendly-python-api-for-physical-computing/)
+
+## Next
+Next, we need to learn linux. Follow the [[Linux labs|Introduction-to-Linux:-Labs]] next!
