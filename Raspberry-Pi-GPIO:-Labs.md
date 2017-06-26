@@ -4,7 +4,7 @@ Welcome to the GPIO lab! This time, we're going to build a couple of circuits us
 
 ## Prep
 
-Take one cable and connect it to the GPIO 17 pin. Connect the other end of the cable to one of the positive rails on the breadboard - near the red line.
+Take one cable and connect it to the GPIO 17 pin - it's a little way down the left side. Count carefully! Connect the other end of the cable to one of the positive rails on the breadboard - near the red line.
 
 Take another cable and connect one of the GPIO Ground pins ("GND") to one of the negative rails on the breadboard - near the blue line.
 
@@ -35,4 +35,12 @@ Save this in a file called `~/gpio/led.py`.
 
 ## Circuitry
 
-On your breadboard, put an LED 
+On your breadboard, put an LED and a resistor in series between the +ve and -ve rails on the breadboard. That means the resistor should connect the +ve rail to the +ve pin on the LED (the one with the longest leg!), and the -ve leg on the LED should connect to the -ve breadboard rail. It's important to get the LED the right way - it only works in one direction.
+
+## Go!
+
+Run your script:
+
+    python ~/gpio/led.py
+
+and watch the LED flash!
