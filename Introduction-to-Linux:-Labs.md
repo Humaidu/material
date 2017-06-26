@@ -28,14 +28,10 @@ What does `ps` do? Try it!
 Open the `pico` editor.
 
 Type some text! Say hello, write your name, where you come from, what you like to do in your spare time. Write two paragraphs about yourself.
-
-At the bottom of the screen, you'll see all the commands you can use. Sometimes you'll see `^` - this just means `ctrl`. So for example, `^O` just means `ctrl`+`o`.
-
-Use the _WriteOut_ command to save your work (name the file with your first name), then the _Exit_ command to quit pico. You'll be right back at the command prompt.
-
-My file is called `sam`. What happens when I type `cat sam` in the command prompt? Try that with the name of your file. Use the manpage for cat to figure out what's happening.
-
-What happens when I type `less sam`? What's `less`? (Type `q` to escape!). Do you recognise `less`? It's how manpages are shown on the screen!
+* At the bottom of the screen, you'll see all the commands you can use. Sometimes you'll see `^` - this just means `ctrl`. So for example, `^O` just means `ctrl`+`o`.
+* Use the _WriteOut_ command to save your work (name the file with your first name), then the _Exit_ command to quit pico. You'll be right back at the command prompt.
+* My file is called `sam`. What happens when I type `cat sam` in the command prompt? Try that with the name of your file. Use the manpage for cat to figure out what's happening.
+* What happens when I type `less sam`? What's `less`? (Type `q` to escape!). Do you recognise `less`? It's how manpages are shown on the screen!
 
 ## Combining commands
 Some commands can be combined together. For example, `wc` is a simple command that shows a wordcount for a file - the number of characters, lines, and words in the file.
@@ -45,3 +41,5 @@ Some commands can be combined together. For example, `wc` is a simple command th
 * Try it with your file. How many words are in your file? How many lines of text?
 * Use `ls` and `wc` to find out how many files and directories are in your `root` directory.
 * How many files and directories are in your `home` directory?
+* Enter `ls > files`. Then enter `cat files`. What happened? What is `files`? What does `>` do?
+* Enter `wc -l < files`. What does the number mean?
