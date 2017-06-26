@@ -1,3 +1,5 @@
+# ![Intro to git and GitHub: Labs](../blob/master/assets/img/logo-128.png?raw=true)
+
 ## 1: Create a GitHub profile
 
 The first thing we want you to do is create your own GitHub profile. If you already have one, you can skip
