@@ -14,7 +14,7 @@
 ## Week 2
 | Day | Topic | Present | Slides? | Labs? | Wiki? |
 |-----|-------|---------|---------|-------|-------|
-|  1  | [[Advanced Python |advanced-python]] | [here](https://gitpitch.com/iotinafrica/material?p=advanced-python) | | | Done |
+|  1  | [[Advanced Python |advanced-python]] | [here](https://gitpitch.com/iotinafrica/material?p=advanced-python) | | [[here| advanced-python:-labs]] | Done |
 |  2  | [[Introduction to Internet of Things |intro-to-internet-of-things]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-internet-of-things) |
 |  3  | [[Hosting Platforms |hosting-platforms]] | [here](https://gitpitch.com/iotinafrica/material?p=hosting-platforms) | | | Done |
 |  4  | [[Distributed Systems|Distributed-Systems]] |
