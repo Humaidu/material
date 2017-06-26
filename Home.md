@@ -5,7 +5,7 @@
 |-----|-------|---------|---------|-------|-------|
 |  1  | [[Introduction to IoT in Africa|intro-to-iotinafrica]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-iotinafrica) | Done | Done | Done |
 |  1  | [[Introduction to Raspberry Pi|intro-to-raspberry-pi]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-raspberry-pi) | | Done | Done |
-|  1  | Introduction to Linux | (none) | (none) | [[here| Introduction-to-Linux:-Labs]]
+|  1  | Introduction to Linux | | | [[here| Introduction-to-Linux:-Labs]]
 |  2  | [[Introduction to Python|intro-to-python]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-python) | Done | Done | Done |
 |  3  | [[Introduction to Git and GitHub |intro-to-git-and-github]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-git-and-github) | Done | | Done |
 |  4  | [[Web APIs |web-apis]] | [here](https://gitpitch.com/iotinafrica/material?p=web-apis) | Done | Internal | Done |
