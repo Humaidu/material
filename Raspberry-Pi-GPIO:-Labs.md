@@ -4,7 +4,7 @@ Welcome to the GPIO lab! This time, we're going to build a couple of circuits us
 
 ## Prep
 
-Take one cable and connect it to the +5v GPIO pin - those are on the top right as you look at the pins. Connect the other end of the cable to one of the positive rails on the breadboard - near the red line.
+Take one cable and connect it to the GPIO 17 pin. Connect the other end of the cable to one of the positive rails on the breadboard - near the red line.
 
 Take another cable and connect one of the GPIO Ground pins ("GND") to one of the negative rails on the breadboard - near the blue line.
 
@@ -17,5 +17,22 @@ Take another cable and connect one of the GPIO Ground pins ("GND") to one of the
 Let's write some python! You should have the python `gpiozero` package installed (`pip list` to check). If you don't, `sudo pip install gpiozero`
 
 ```python
-foo = "bar"
+from gpiozero import LED
+from time import sleep
+
+led = LED(17)
+
+while True:
+    led.on()
+    sleep(1)
+    led.off()
+    sleep(1)
 ```
+
+Save this in a file called `~/gpio/led.py`.
+
+...that's it! Let's build the thing.
+
+## Circuitry
+
+On your breadboard, put an LED 
