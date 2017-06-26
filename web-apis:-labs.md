@@ -1,6 +1,24 @@
-# ![Intro to Web APIs: Exploratory session](../blob/master/assets/img/logo-128.png?raw=true)
+# ![Web APIs: Labs](../blob/master/assets/img/logo-128.png?raw=true)
 
-Welcome to the Web APIs explore session. For the rest of the day, we want you to work in small groups 
+Welcome to the Web APIs lab! This lab is pretty open-ended because we want to see what APIs you can discover and use. You can work in pairs or larger groups. Here's a bunch of things you might want to try. Choose one and make it awesome - or come up with your own idea :)
+
+## Weatherbot!
+* Create a twitter bot using (tweepy)[http://www.tweepy.org/]
+* Every hour, it should check and tweet the weather using emojis
+
+## Distancebot!
+* Use (GeoPy)[https://github.com/geopy/geopy] to build an app which takes any two cities and calculates the distance between them.
+
+## Rock on!
+* Use the (LastFM API)[http://www.last.fm/api] to tell a person about their favourite artist.
+
+## 
+
+---
+
+## Roll your own:
+
+For the rest of the day, we want you to work in small groups 
 (maybe double up your pairs) to build an application that does something interesting using the programmable
 web.
 
@@ -11,6 +29,3 @@ Try to choose something that's personally interesting to your group, because tha
 
 Make sure you use your knowledge of git and python modules, so you can split up the project into tasks and all
 work at once.
-
-It'd be really great if your project had some kind of visualisation - the more real-time the better - so bear
-that in mind. 
