@@ -14,7 +14,8 @@ Don't forget to create a GitHub repo for your project, and check in regularly!
 ## Rock on!
 * Use the [LastFM API](http://www.last.fm/api) to tell a person about their favourite artist.
 
-## 
+## What's going on?
+* Use the [News API](https://newsapi.org/#documentation) to build a news app.
 
 ---
 
