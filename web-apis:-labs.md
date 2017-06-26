@@ -17,6 +17,9 @@ Don't forget to create a GitHub repo for your project, and check in regularly!
 ## What's going on?
 * Use the [News API](https://newsapi.org/#documentation) to build a news app.
 
+## Country data
+* Use the [World Bank API](https://wbdata.readthedocs.io/en/latest/) to find out how much money different countries spend on, say, university students ;-)
+
 ---
 
 ## Roll your own:
