@@ -56,6 +56,23 @@ Some commands can be combined together. For example, `wc` is a simple command th
 * Enter `wc -l < files`. What does the number mean?
 * `tee` is very useful. Before passing its input through to its output, it also writes the input to a file. 
 
+## Variables
+You can save information in the shell using environment variables. Type the following:
+
+    message="hello, my name is sam"
+    echo $message
+
+Make sure to leave no spaces around the `=`, and remember the `$` before "message" - this is the name of the variable. They can be used by processes that you write, and contain useful information that the shell uses. We'll see more variables when we come to use Heroku next week.
+
+## Success and Failure
+As well as having an input and an output, each process returns either zero or a non-zero number, notifying the shell that it either succeeded (0) or it failed (1-255). The different numbers can be used as error codes - for example 1 might mean that a file could not be read, etc.
+
+The special variable `$?` contains the status code of the _last_ command that ran. How can you read the value of `$?`?
+
+The simple commands `true` and `false` set status codes of `0` and `1` respectively. Run them and then print out the value of `$?`.
+
+
+
 ## Building pipelines
 Linux commands are based on the philosophy of doing one job, and combining simple tasks into complex operations using `|`, `<`, and `>`.
 
