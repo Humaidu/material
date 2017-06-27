@@ -9,7 +9,8 @@ can help them.
 ## 1: Pip
 Hit `ctrl`+`alt`+`t` to bring up a terminal. Using the `pip` command:
 * Show a list of all the packages installed on your system. Using only terminal commands, find out how many there are.
-* 
+* Use pip to install the `pandas` library. Pandas is a popular numerical library for Python. You can read about it [here](http://pandas.pydata.org/)
+* Using terminal commands, find out if `beautifulsoup4` is installed. If it isn't, install it.
 
 ## 2: Filter, Map, Lambda!
 Write a function (using `def`!) that takes a number and returns True if it's even. Let's call the function `is_even`
@@ -38,6 +39,45 @@ Write a function called `join_strings` that takes a list of words and uses `+` t
     helloworld = join_strings(words) # "hello world"
 
 ## 5: List comprehensions
+Python has a very powerful way to perform the `map` and `filter` operations in one go: List comprehensions. The following code splits a sentence into its constituent words, we've seen this kind of code before:
+
+```python
+sentence = "the quick brown fox jumps over the lazy dog"
+words = sentence.split()
+```
+The following comprehension returns a list of the lengths of each word. Enter the following code in the `python` REPL:
+
+```pythonn
+[len(word) for word in words]
+```
+
+Now, let's do the same for words that aren't "the":
+
+```python
+[len(word) for word in words if word != "the"]
+```
+
+* Create a list out of only the _positive_ numbers from this list:
+
+```python
+numbers = [34.6, -203.4, 44.9, 68.3, -12.2, 44.6, 12.7]
+```
+
+* Create a list containing only the _even_ numbers from this list:
+
+```python
+numbers = [12, 54, 33, 67, 24, 89, 11, 24, 47]
+```
+
+* Create a list containing _tuples_ of the _uppercase_ version and the _length_ of the following words:
+
+```python
+words = ["hello", "my", "name", "is", "Sam"]
+```
+
+for example, the _first_ element in your list would be
+
+    ('HELLO', 5)
 
 
 ## 6: Modules
