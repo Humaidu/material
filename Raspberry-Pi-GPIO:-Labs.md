@@ -54,6 +54,9 @@ If it's not working, try swapping the cables over - they're probably just the wr
 
 Let's read the status of a button. Take a third cable and connect it from GPIO pin 2 to another of the vertical rails on the board. Take a button and wire it in series from that rail to the -ve rail you setup earlier.
 
+![LED & Button](https://raw.githubusercontent.com/iotinafrica/material/master/assets/img/button_led.png)
+
+
 ### Code
 
 ```python
