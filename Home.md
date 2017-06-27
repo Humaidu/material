@@ -1,7 +1,7 @@
 # July 2017
 
 ## Week 1
-| Day | Topic | Present | Slides? | Labs? | Wiki? |
+| Day | Topic | Present | Slides | Labs | Wiki? |
 |-----|-------|---------|---------|-------|-------|
 |  1  | [[Introduction to IoT in Africa|intro-to-iotinafrica]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-iotinafrica) | Done | [[here |intro-to-iotinafrica:-labs]] | Done |
 |  1  | [[Introduction to Raspberry Pi|intro-to-raspberry-pi]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-raspberry-pi) | | [[here| Introduction-to-Raspberry-Pi:-Labs]] | Done |
@@ -12,7 +12,7 @@
 |  5  | Raspberry Pi and GPIO | | | [[here| Raspberry-Pi-GPIO:-Labs]] | |
 
 ## Week 2
-| Day | Topic | Present | Slides? | Labs? | Wiki? |
+| Day | Topic | Present | Slides | Labs | Wiki? |
 |-----|-------|---------|---------|-------|-------|
 |  1  | [[Advanced Python |advanced-python]] | [here](https://gitpitch.com/iotinafrica/material?p=advanced-python) | | [[here| advanced-python:-labs]] | Done |
 |  2  | [[Introduction to Internet of Things |intro-to-internet-of-things]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-internet-of-things) |
