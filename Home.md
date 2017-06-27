@@ -16,8 +16,8 @@
 |-----|-------|---------|---------|-------|-------|
 |  1  | [[Advanced Python |advanced-python]] | [here](https://gitpitch.com/iotinafrica/material?p=advanced-python) | | [[here| advanced-python:-labs]] | Done |
 |  2  | [[Introduction to Internet of Things |intro-to-internet-of-things]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-internet-of-things) |
-|  3  | [[Hosting Platforms |hosting-platforms]] | [here](https://gitpitch.com/iotinafrica/material?p=hosting-platforms) | | [[here| Hosting-Platforms:-Labs]] | Done |
-|  4  | [[Distributed Systems|Distributed-Systems]] |
-|  5  | [[Building a Web Application |building-a-web-application]] | [here](https://gitpitch.com/iotinafrica/material?p=building-a-web-application) | Done | Internal | Done |
+|  3  | [[Building a Web Application |building-a-web-application]] | [here](https://gitpitch.com/iotinafrica/material?p=building-a-web-application) | Done | Internal | Done |
+|  4  | [[Hosting Platforms |hosting-platforms]] | [here](https://gitpitch.com/iotinafrica/material?p=hosting-platforms) | | [[here| Hosting-Platforms:-Labs]] | Done |
+|  5  | [[Distributed Systems|Distributed-Systems]] |
 || [[MQTT with Python & Pi| mqtt-with-python-and-pi ]] | | | |
 || [[Cloud IoT platforms |cloud-iot-platforms]] ||||
