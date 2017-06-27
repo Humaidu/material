@@ -6,7 +6,12 @@ each bit of code before you move on.
 If you get something wrong, let us know! Other people may have done the same thing; maybe you
 can help them.
 
-## 1: Filter, Map, Lambda!
+## 1: Pip
+Hit `ctrl`+`alt`+`t` to bring up a terminal. Using the `pip` command:
+* Show a list of all the packages installed on your system. Using only terminal commands, find out how many there are.
+* 
+
+## 2: Filter, Map, Lambda!
 Write a function (using `def`!) that takes a number and returns True if it's even. Let's call the function `is_even`
 
 Use your `is_even` function to return only the even numbers from the following list:
@@ -17,12 +22,12 @@ Now, rewrite your code to use a _lambda_: write the is_even code in-line, rather
 
 Next, re-write your code to return all the _odd_ numbers in the `numbers` collection.
 
-## 2: Combinations
+## 3: Combinations
 Investigate the function called `not`. What does it do?
 
 Using the built-in function `not` and your function `is_even`, find another way to return all the _odd_ numbers in the `numbers` collection from the previous section.
 
-## 3: Fold
+## 4: Fold
 Remember that a folding operation (sometimes called _reduce_) takes a collection of data and returns one piece of data, by applying a function to all the items in order. An example might be to add up all the numbers in a list:
 
     total = fold(lambda item, running_total: item + running_total, [1, 2, 3, 4, 5])
@@ -32,4 +37,24 @@ Write a function called `join_strings` that takes a list of words and uses `+` t
     words = ["hello", "world"]
     helloworld = join_strings(words) # "hello world"
 
-## 4: List comprehensions
+## 5: List comprehensions
+
+
+## 6: Modules
+Investigate the python module system. Learn how to call out to functions in code that you've already written (e.g. Web APIs, GPIO labs) from another file.
+
+## 7: Classes
+What's a class? You should know this from your studies.
+
+Write a Python class for a Person. The person should inherit from Object and have the following methods:
+* A `constructor` which takes the persons name and date of birth
+* speak() - prints "hello"
+* walk() - prints "walking away"
+* get_name() - returns the person's name
+* get_age() - returns the person's age
+
+Write another class called Student. Student inherits from Person and has the following methods:
+* The `constructor` also takes a String List of course names
+* get_courses() - returns the course list
+* speak() - in the subclass, prints "I'm so tired!"
+
