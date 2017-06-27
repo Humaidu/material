@@ -75,12 +75,17 @@ What happens when you run this program and push the button?
 
 ## Exercises
 
-* Turn the button into a reset button for you.
+* Turn the button into a reset button for your raspberry pi
 
 HINT:
 ```python
+from subprocess import call
+
 def print_thing():
     print "button pressed"
 
 button.when_pressed = print_thing
 ```
+
+* Using different LEDs, write a traffic lights program. When the user presses a button, the traffic should stop and the pedestrian should be allowed to walk. After a while, traffic should be allowed to move again.
+
