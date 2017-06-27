@@ -42,7 +42,7 @@ Type some text! Say hello, write your name, where you come from, what you like t
 * `grep` searches the input for lines matching a certain pattern. For example, `grep cheese sam` prints out all the lines in the file called _sam_ that contain the exact word "cheese".
 * Grep is very powerful. `grep ^I sam` prints out all the lines in the file _sam_ that _start with_ the character "I".
 * What do you think `grep UK$ sam` does?
-* You can use the backticks (\`) to execute a command and pass its output to the outer command. This sounds complex but it's really simple. If I type `grep \`whoami\` sam`
+* You can use the backticks (\`) to execute a command and pass its output to the outer command. This sounds complex but it's really simple. If I type `grep \\`whoami\` sam`
 
 the `whoami` command is executed first. That returns "sam". That output is then substituted into the command, so `grep sam sam` is executed. See? Easy!
 
