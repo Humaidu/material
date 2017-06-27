@@ -38,3 +38,5 @@ Again - you should get a notification on your phone! If you don't, check the val
 
 ## GPIO
 This part is fun - remember how to add an event handler to your button in Python? Write some code so that when you press the button, you get a notification on your phone!
+
+Try to send a fun message to yourself, 
