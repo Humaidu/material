@@ -88,6 +88,10 @@ Docker, a toolkit for running applications in isolation:
 
     curl -sSL https://get.docker.com | sh
 
+Arduino, the toolkit for our arduino devices:
+
+    sudo apt-get update && sudo apt-get install arduino
+
 ## I'm brave!
 If you're really brave, or you've used linux before, why not install a different distro? There's a bunch available [here](https://www.raspberrypi.org/downloads/).
 
