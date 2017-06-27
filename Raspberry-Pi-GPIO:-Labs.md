@@ -12,6 +12,8 @@ Take one cable and connect one of the GPIO Ground pins ("GND") to one of the neg
 
 ![breadboard](https://cdn-learn.adafruit.com/assets/assets/000/002/602/medium800/learn_arduino_breadboard_half.jpg)
 
+![LED & Button](https://raw.githubusercontent.com/iotinafrica/material/master/assets/img/led.png)
+
 ### Code
 
 Let's write some python! You should have the python `gpiozero` package installed (`pip list` to check). If you don't, `sudo pip install gpiozero`
