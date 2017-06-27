@@ -72,3 +72,15 @@ pause()
 Save this in a file called `button.py`, alongside `led.py`. Don't forget to check it in :)
 
 What happens when you run this program and push the button?
+
+## Exercises
+
+* Turn the button into a reset button for you.
+
+HINT:
+```python
+def print_thing():
+    print "button pressed"
+
+button.when_pressed = print_thing
+```
