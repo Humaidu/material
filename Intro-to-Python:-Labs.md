@@ -41,7 +41,6 @@ Write some code that:
 * Converts 32 degrees to radian (HINT: `math.pi`!).
 * Asks the user for a _radius_ then prints out the surface area and volume of a sphere.
 * Tells the user what time of day it is, in a nice format.
-* Prints "odd" if a number is odd and "even" if it's even.
 * Splits a sentence into its words
 * Joins a list of words into a sentence. Find TWO ways to do this!
 
@@ -82,6 +81,7 @@ Type the following code:
 
 * Explain what's happening. How can you use `range` to do the same thing?
 * What's the `type` of `[1, 2, 3]`? What `type` of data does `range` return?
+* Can you use `range` to return the list `[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]`?
 * Write a function to produce the following output:
 
 ```
@@ -130,8 +130,6 @@ In a file called `lists.py`, type the following code:
   * Takes two arguments - the min and max values
   * Returns a list of the even numbers between min and max
 
-
-
 ## 6: Tuples
 In the file `tuples.py`, write two functions:
 * `partition` should take a number and return a 2-tuple, with the number on the *left* if it's even, and
@@ -152,12 +150,12 @@ Write a function that takes a number and prints out its value in *Roman Numerals
 
 e.g. 3 = III, 56 = LVI etc...
 
-## <a name="complex"></a>Stretch: Complex numbers
+## Stretch: Complex numbers
 Investigate the `complex` numeric type. In a file called `mandelbrot.py`, write a function called `mandelbrot`
 that takes a number `n` and prints out the <a href="en.wikipedia.org/mandelbrot_set">Mandelbrot Set</a>
 using ascii characters in an `n` x `n` matrix.
 
-## <a name="tic-tac-toe"></a>Stretch: tic-tac-toe
+## Stretch: tic-tac-toe
 Write a tic-tac-toe game. Firstly, it should print out an empty grid, then wait for input. Players take
 turns entering coordinates in the form (x, y). The game adds a O or an X in the right square, then prints
 out the grid again.
@@ -165,5 +163,5 @@ out the grid again.
 Make good use of functions to split up your code. For example, you could write a function `print_grid`
 which takes the grid state as an argument and prints it to the console.
 
-Stretch: Write a single-player game where the computer plays against you. Are you better at Python than
+## Stretch: Write a single-player game where the computer plays against you. Are you better at Python than
 you are at tic-tac-toe? :)
