@@ -38,15 +38,22 @@ User input?
 * `type(age)`
 
 Write some code that:
-* Converts 32 degrees to radian (HINT: `math.pi`!)
-* Asks the user for a _radius_ then prints out the surface area and volume of a sphere
-* Tells the user what time of day it is, in a nice format
+* Converts 32 degrees to radian (HINT: `math.pi`!).
+* Asks the user for a _radius_ then prints out the surface area and volume of a sphere.
+* Tells the user what time of day it is, in a nice format.
+* Prints "odd" if a number is odd and "even" if it's even.
+* Splits a sentence into its words
+* Joins a list of words into a sentence. Find TWO ways to do this!
+
 
 ## 2: Functions
 In a file called `person.py`:
 * Write a function called `get_age` that asks the user for their age, and returns it as an `int`
 * Write another function called `get_name`, which does the same but for the users age
 * Call both these functions and tell the user what you know about them!
+
+In a file called `my_maths.py`:
+* Write a function called `calculate` that takes one `string` and two `int` arguments. The string should be "add", "subtract", "multiply" or "divide", or any of those words in uppercase. The `calculate` function should then do the right operation with the two numbers and return the result.
 
 ## 3: Loops
 In a file called `while_loop.py`, write the following code:
