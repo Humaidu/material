@@ -29,12 +29,18 @@ Variables!
 * `second = "world"`
 * `first + " " + second`
 * `type(first)`
+* `print first`
 
 User input?
 * `name = raw_input("What is your name?")`
 * `type(name)`
 * `age = int(raw_input("What is your age?"))`
 * `type(age)`
+
+Write some code that:
+* Converts 32 degrees to radian (HINT: `math.pi`!)
+* Asks the user for a _radius_ then prints out the surface area and volume of a sphere
+* Tells the user what time of day it is, in a nice format
 
 ## 2: Functions
 In a file called `person.py`:
