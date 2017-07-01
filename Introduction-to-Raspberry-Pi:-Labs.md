@@ -49,6 +49,12 @@ Reboot your Pi and login, using your new account. Now we need to remove the defa
 
 This has deleted the original default user. Now someone needs to know your password before they can login!
 
+Finally, let's create the directory that you'll be doing most of your work in:
+
+    mkdir dev
+
+Now, we're done!
+
 ## Discover
 
 Find out:
