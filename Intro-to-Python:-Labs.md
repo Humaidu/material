@@ -103,6 +103,12 @@ Type the following code:
     *
 ```
 
+* Write a function that takes a `string` and returns `True` if the string contains the letter 'a', otherwise returns `False`. Don't use Python's `in` operator, write the code yourself!
+
+* Change your function to work for _any_ letter.
+
+* Use your function in _another_ function that returns `True` if the string contains the letters 's' and 'm', otherwise returns `False`.
+
 ## 4: If
 In a file called `conditional.py`, write the following code:
 
