@@ -20,6 +20,6 @@ Then introduce the labs before lunch, around 11am
 
 Most people around adduser/userdel by lunchtime.
 
-lunch 12-1
-q&a after lunch
+lunch 12.30-1.30
+q&a after lunch. started again at 1.30 sharp because I want latecomers to know we start on time. What does sudo do, why is it important. What's mkdir? Leads to a brief discussion of the filesystem and a forward pointer for this afternoon.
 then finish labs until 4
