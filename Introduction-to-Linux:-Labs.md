@@ -14,7 +14,7 @@ Once you've found out what `pwd` does, hit `q` to exit the man system. Now, type
 
 Type `cd /` `<enter>`, then try `pwd` again.
 * What happened? What does `cd` do? (hint: there's no 'man page' because `cd` is so simple!)
-* Use `cd` to go back to the directory you were in. This is your _home_ directory - it's where all your stuff goes. You can always get back here by typing `cd ~`.
+* Use `cd ~` to go back to the directory you were in. This is your _home_ directory - it's where all your stuff goes. You can always get back here by typing `cd ~`.
 * type `cd ..`, then check where you are with `pwd`. What does `..` mean? (hint: it's in *every* folder!)
 
 Type `ls`.
