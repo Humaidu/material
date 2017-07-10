@@ -26,6 +26,8 @@ Type `ls`.
 
 What does `ps` do? Try it!
 
+Type `cd ~` to get back to your home directory.
+
 ## Editing text
 Open the `pico` editor.
 
