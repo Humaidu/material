@@ -11,5 +11,15 @@ Spend an hour (around 10am)
 * browsing to this wiki for labs
 * login.iotinafrica.com
 * answering the question "what fun stuff can I install on my raspberry pi?"
+* "What is the raspberry Pi ZERO? How is it different?
 
-Then introduce the labs before lunch.
+* some discussion of Pi HATs - Hardware Attached on Top - that allow other sensors and components to be added to the Pi.
+* Meanwhile we collected email addresses and added people to a new slack group we'd created
+
+Then introduce the labs before lunch, around 11am
+
+Most people around adduser/userdel by lunchtime.
+
+lunch 12-1
+q&a after lunch
+then finish labs until 4
