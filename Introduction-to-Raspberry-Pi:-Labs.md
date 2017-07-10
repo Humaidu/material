@@ -11,7 +11,7 @@ Finally, using the cable that comes with your Pi, plug it in! Check you can see 
 
 ## Install
 
-First, connect to the wifi!
+First, check you're connected to the internet!
 
 Before we really get started, there's two things we need to do together. Use the mouse to click the raspberry icon in the top-left corner of the screen, then find the Terminal in the Accessories menu.
 
@@ -64,10 +64,7 @@ Go ahead and play around - it's your computer now! Try these things:
 * Change the background image to something you like. There's a bunch of great hi-res photography at [UnSplash](https://unsplash.com) :)
 * Change the appearance settings
 * Change the shortcuts in the application launch bar - I prefer the "Chromium Web Browser", for example.
-* Browse to https://iotinafrica.slack.com/ & join our #koforidua2017 channel
-    * Make sure to save a bookmark
-    * Say hi
-    * Install it on your phone, too - chat from anywhere!
+* Check your email and join our slack channel!
 
 ## Install
 
