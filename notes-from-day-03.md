@@ -6,3 +6,7 @@ Came back at 10:20 and did 50 minutes of slides until Functions. Turns out this 
 11:10 means 50 mins of labs until lunch, then we'll carry on through the afternoon before git, possibly at eod, more likely tomorrow. This might be a bit much to deal with today. Try to make it fun this afternoon?
 
 A lot of the class don't know how to code. Need to be more stringent next year. Final year students only, must know at least one programming language?
+
+Straight back into the labs at 1 sharp, with a bit of class hand-holding through the functions labs.
+
+15:30 and some people have got as far as for loops. I've told the class they can install python on their own laptops, but I think we're going to have to move on at lunchtime tomorrow. Git & Github in the afternoon, maybe then we can finish off with Python labs?
