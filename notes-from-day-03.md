@@ -5,3 +5,4 @@ Came back at 10:20 and did 50 minutes of slides until Functions. Turns out this 
 
 11:10 means 50 mins of labs until lunch, then we'll carry on through the afternoon before git, possibly at eod, more likely tomorrow. This might be a bit much to deal with today. Try to make it fun this afternoon?
 
+A lot of the class don't know how to code. Need to be more stringent next year. Final year students only, must know at least one programming language?
