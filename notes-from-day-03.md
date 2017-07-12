@@ -10,3 +10,5 @@ A lot of the class don't know how to code. Need to be more stringent next year. 
 Straight back into the labs at 1 sharp, with a bit of class hand-holding through the functions labs.
 
 15:30 and some people have got as far as for loops. I've told the class they can install python on their own laptops, but I think we're going to have to move on at lunchtime tomorrow. Git & Github in the afternoon, maybe then we can finish off with Python labs?
+
+I think the leaps we make in the lab (i.e. introducing range() fairly quietly, asking what it might do, rather than teaching it then using it) are a bit too much.
