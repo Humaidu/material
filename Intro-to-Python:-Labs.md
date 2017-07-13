@@ -114,9 +114,9 @@ In a file called `conditional.py`, write the following code:
 
     i = 8
     if(i % 2 == 0):
-        print "Odd Number"
-    else:
         print "Even Number"
+    else:
+        print "Odd Number"
 
 * What is `%`? What is `i % 2`?
 * Write a function called `evens` that takes a list of numbers and returns the sum of all the even numbers
