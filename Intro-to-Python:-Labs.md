@@ -113,7 +113,7 @@ Type the following code:
 In a file called `conditional.py`, write the following code:
 
     i = 8
-    if(i % 2):
+    if(i % 2 == 0):
         print "Odd Number"
     else:
         print "Even Number"
