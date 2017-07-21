@@ -9,3 +9,9 @@ So then we discussed structured data - how OWM might actually work as a network 
 Then we'd talked about layered APIs and how this data is coming across the web, so we looked at the actual requests. Allowed us to talk about JSON & tie that back to the key/value discussion we'd just had.
 
 Left the students with that API and newsapi.org for a while, then laid down the challenge: "Print out all the headlines from newsweek" with no help. Well, a little bit.
+
+--
+
+1:30 - students are having trouble with the question - I've pointed them to the slide material for dictionary and for loops, so hopefully that'll work. I think the task here is just to keep checking they're working the problem.
+
+Problem solving is a huge deal, and it's just not here. John Latham really did great work for us at Manchester, I should thank him.
