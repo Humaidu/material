@@ -28,6 +28,9 @@ Weds afternoon:
   morse character -> dictionary lookup
   receive arbitrary messages over MQTT & display them in morse
   web client ajax -> server endpoint -> mqtt -> lights flash?
+- so we did the web client ajax and the server endpoint, but you can't add even the free cloudmqtt client on heroku without CC details, and of course you can't access moorhouseassociates mqtt from heroku. I wonder if next year we could use the WS address for ma.com? Anyway, another hour to go.
+
+Throughout, this has been a really good opportunity to encourage students to read error messages. Might even be worth going over a few exercises? Debugging for fun and profit!
 
 Friday morning:
   consuming web services
