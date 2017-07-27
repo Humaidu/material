@@ -8,6 +8,8 @@ Important things to note for next year:
 * Important for the teacher to bring in enough kit so we're not ferrying stuff around.
 * All problems can be solved on the last day; the projects are pretty simple so there are no emergencies. A sense of urgency is useful, though. As is the threat of not graduating.
 
+We need to move away from learned helplessness. "Sam, it's not downloading!"
+
 Things we need to cover from the beginning:
 * basic control flow. if/else, loops, functions. 
 * ...
