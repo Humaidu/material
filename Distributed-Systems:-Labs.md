@@ -1,4 +1,4 @@
-# ![Distributed Systems: Labs](../blob/master/assets/img/logo-128.png?raw=true)
+# ![Distributed Systems: Labs](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 
 Welcome to the Distributed Systems lab! This time, we're going to learn about MQTT, then build on top of everything we've learned to build a connected web application.
 
