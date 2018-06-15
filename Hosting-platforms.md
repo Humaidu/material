@@ -1,7 +1,7 @@
-# ![Hosting Platforms](../blob/master/assets/img/logo-128.png?raw=true)
+# ![Hosting Platforms](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 ## Teaching Materials
 
-[Teaching Slides](https://gitpitch.com/iotinafrica/material?p=hosting-platforms)
+[Teaching Slides](https://gitpitch.com/glblcd/material?p=hosting-platforms)
 | [[Labs|hosting-platforms:-labs]]
 
 ## Introduction
