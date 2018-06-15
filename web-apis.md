@@ -1,7 +1,7 @@
-# ![Web APIs](../blob/master/assets/img/logo-128.png?raw=true) Web APIs
+# ![Web APIs](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true)  Web APIs
 ## Teaching Materials
 
-[Teaching Slides](https://gitpitch.com/iotinafrica/material?p=/web-apis) |
+[Teaching Slides](https://gitpitch.com/glblcd/material?p=/web-apis) |
 [[Labs|web-apis:-labs]]
 
 ## Introduction
