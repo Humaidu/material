@@ -2,7 +2,7 @@
 
 ## Week 1
 | Day | Topic | Present | Slides | Labs | Wiki? | 2018 update? | 
-|-----|-------|---------|---------|-------|-------|
+|-----|-------|---------|--------|------|-------|--------------|
 |  1  | [[Introduction to IoT in Africa\|intro-to-iotinafrica]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-iotinafrica) | Done | [[here \|intro-to-iotinafrica:-labs]] | Done |
 |  1  | [[Introduction to Raspberry Pi\|intro-to-raspberry-pi]] | [here](https://gitpitch.com/iotinafrica/material?p=intro-to-raspberry-pi) | | [here]( https://github.com/glblcd/material/blob/master/intro-to-raspberry-pi/Introduction-to-Raspberry-Pi.ipynb) | Done |
 |  1  | Introduction to Linux | | | [here](https://github.com/glblcd/material/blob/master/intro-to-linux/Introduction-to-Linux.ipynb)
