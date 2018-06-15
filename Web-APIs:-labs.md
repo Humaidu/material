@@ -1,4 +1,4 @@
-# ![Web APIs: Labs](../blob/master/assets/img/logo-128.png?raw=true)
+# ![Web APIs: Labs](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 
 Welcome to the Web APIs lab! This lab is pretty open-ended because we want to see what APIs you can discover and use. You can work in pairs or larger groups. Here's a bunch of things you might want to try. Choose one and make it awesome - or come up with your own idea :)
 
