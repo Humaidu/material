@@ -3,7 +3,7 @@
 ## Week 1
 | Day | Topic | Present | Slides | Labs | Wiki? | 2018 update? | 
 |-----|-------|---------|--------|------|-------|--------------|
-|  1  | [[Introduction to Global Code\|introduction-to-global-code]] | [here](https://gitpitch.com/glblcd/material?p=intro-to-iotinafrica) | Done | [[here \|intro-to-glblcd:-labs]] | Done |
+|  1  | [[Introduction to Global Code\|introduction-to-global-code]] | [here](https://gitpitch.com/glblcd/material?p=intro-to-global-code) | Done | [[here \|intro-to-glblcd:-labs]] | Done |
 |  1  | [[Introduction to Raspberry Pi\|intro-to-raspberry-pi]] | [here](https://gitpitch.com/glblcd/material?p=intro-to-raspberry-pi) | | [here]( https://github.com/glblcd/material/blob/master/intro-to-raspberry-pi/Introduction-to-Raspberry-Pi.ipynb) | Done |
 |  1  | Introduction to Linux | | | [here](https://github.com/glblcd/material/blob/master/intro-to-linux/Introduction-to-Linux.ipynb)
 |  2  | [[Introduction to Python\|intro-to-python]] | [here](https://gitpitch.com/glblcd/material?p=intro-to-python) | Done | [here](https://github.com/glblcd/material/blob/master/intro-to-python/Introduction-to-Python.ipynb) | Done |
