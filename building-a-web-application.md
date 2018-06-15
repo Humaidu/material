@@ -1,7 +1,7 @@
-# ![Building a Web Application](../blob/master/assets/img/logo-128.png?raw=true)
+# ![Building a Web Application](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 ## Teaching Materials
 
-[Teaching Slides](https://gitpitch.com/iotinafrica/material?p=building-a-web-application)
+[Teaching Slides](https://gitpitch.com/glblcd/material?p=building-a-web-application)
 | [[Labs|Building-a-Web-Application:-Labs]]
 
 ## Introduction
