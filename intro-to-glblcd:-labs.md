@@ -1,4 +1,4 @@
-# ![IoT in Africa: Labs](../blob/master/assets/img/logo-128.png?raw=true)
+# ![Global Code: Labs](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 
 Our teaching is supplemented by *lab work*. In fact - it's quite often the other way around -
 you'll spend a lot more time coding than we will talking!
