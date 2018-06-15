@@ -1,15 +1,15 @@
-# ![IoT in Africa](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
+# ![Global Code](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 
 ## Teaching Materials
 
-[Teaching Slides](https://gitpitch.com/iotinafrica/material?p=intro-to-iotinafrica)
+[Teaching Slides](https://gitpitch.com/glblcd/material?p=intro-to-iotinafrica)
 | [[Labs|intro-to-iotinafrica:-labs]]
 
 ## Introduction
 
 The point of this material is to introduce the programme: practically and idealogically.
 
-*Practically* speaking, the IoT in Africa programme runs for three weeks, with time split between Python, some discrete electronics, Internet of Things, and a fairly major group project.
+*Practically* speaking, the Global Code programme runs for three weeks, with time split between Python, some discrete electronics, Internet of Things, and a fairly major group project.
 
 Tuition is quite heavy at first (about 1/3 of the day) then much less towards the end. The rest of the time is taken with guided lab work in the form of worksheets for pair-work, experimentation and discovery in pairs or groups, and ad-hoc teaching sessions when something comes up. It's structured but becomes less formal as the programme progresses.
 
