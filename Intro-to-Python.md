@@ -1,8 +1,8 @@
-# ![IoT in Africa](../blob/master/assets/img/logo-128.png?raw=true) 
+# ![Introduction to Python](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 
 ## Teaching Materials
 
-[Teaching Slides](https://gitpitch.com/iotinafrica/material?p=intro-to-python)
+[Teaching Slides](https://gitpitch.com/glblcd/material?p=intro-to-python)
 | [[Labs|intro-to-python:-labs]]
 
 ## Introduction
