@@ -1,8 +1,8 @@
-# ![Intro to git and github](../blob/master/assets/img/logo-128.png?raw=true) 
+# ![Intro to git and github](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 
 ## Teaching Materials
 
-[Teaching Slides](https://gitpitch.com/iotinafrica/material?p=intro-to-git-and-github)
+[Teaching Slides](https://gitpitch.com/glblcd/material?p=intro-to-git-and-github)
 | [[Labs|intro-to-git-and-github:-labs]]
 
 ## Introduction
