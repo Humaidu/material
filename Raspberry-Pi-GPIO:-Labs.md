@@ -1,4 +1,4 @@
-# ![Raspberry Pi GPIO: Labs](../blob/master/assets/img/logo-128.png?raw=true)
+# ![Raspberry Pi GPIO: Labs](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 
 Welcome to the GPIO lab! This time, we're going to build a couple of circuits using the Rapsberry Pi. Grab your breadboard and a couple of cables.
 
