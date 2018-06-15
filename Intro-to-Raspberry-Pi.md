@@ -1,7 +1,9 @@
-# ![IoT in Africa](../blob/master/assets/img/logo-128.png?raw=true) Introduction to Raspberry Pi
+# ![IoT in Africa](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
+
+Introduction to Raspberry Pi
 ## Teaching Materials
 
-[Teaching Slides](https://gitpitch.com/iotinafrica/material?p=intro-to-raspberry-pi)
+[Teaching Slides](https://gitpitch.com/glblcd/material?p=intro-to-raspberry-pi)
 | [[Labs|Introduction-to-Raspberry-Pi:-Labs]]
 
 ## Introduction
