@@ -1,4 +1,4 @@
-# ![Hosting Platforms: Labs](../blob/master/assets/img/logo-128.png?raw=true)
+# ![Hosting Platforms: Labs](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 
 In this lab, we're going to investigate [Heroku](https://www.heroku.com/). Head over there and sign up for an account - it's free!
 
