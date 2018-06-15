@@ -1,8 +1,8 @@
-# ![Intro to Internet of Things](../blob/master/assets/img/logo-128.png?raw=true)
+# ![Intro to Internet of Things](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 
 ## Teaching Materials
 
-[Teaching Slides](https://gitpitch.com/iotinafrica/material?p=intro-to-internet-of-things)
+[Teaching Slides](https://gitpitch.com/glblcd/material?p=intro-to-internet-of-things)
 
 ## Introduction
 
