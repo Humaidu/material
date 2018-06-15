@@ -1,4 +1,4 @@
-# ![Introduction to Linux: Labs](../blob/master/assets/img/logo-128.png?raw=true)
+# ![Introduction to Linux: Labs](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 
 Welcome to the Introduction to Linux lab!
 
