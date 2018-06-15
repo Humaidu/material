@@ -1,7 +1,7 @@
-# ![Advanced Python](../blob/master/assets/img/logo-128.png?raw=true)
+# ![Advanced Python](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 ## Teaching Materials
 
-[Teaching Slides](https://gitpitch.com/iotinafrica/material?p=advanced-python)
+[Teaching Slides](https://gitpitch.com/glblcd/material?p=advanced-python)
 | [[Labs|advanced-python:-labs]]
 
 ## Introduction
