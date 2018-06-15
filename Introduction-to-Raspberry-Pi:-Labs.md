@@ -1,4 +1,4 @@
-# ![Intro to Python: Labs](../blob/master/assets/img/logo-128.png?raw=true)
+# ![Intro to Python: Labs](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 
 Welcome to the Raspberry Pi lab!
 
