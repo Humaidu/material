@@ -6,7 +6,7 @@
 
 ## Introduction
 The aim of this module is twofold:
-* To expand the students knowledge of the Python 2.7 programming language
+* To expand the students knowledge of the Python 3 programming language
 * To introduce the student to advanced programming techniques such as generics,
 recursion, and functional programming
 

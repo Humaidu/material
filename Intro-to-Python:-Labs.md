@@ -1,6 +1,6 @@
-# ![Intro to Python: Labs](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
+# ![Intro to Python3: Labs](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 
-Welcome to the Python lab! Work through this sheet in pairs, making sure that you understand
+Welcome to the Python3 lab! Work through this sheet in pairs, making sure that you understand
 each bit of code before you move on.
 
 If you get something wrong, let us know! Other people may have done the same thing; maybe you
@@ -8,9 +8,9 @@ can help them.
 
 ## 1: Basics
 Try the following in the Python REPL. What do they do?
-* `print "hello"`
-* `print 'hello'`
-* `print hello`
+* `print ("hello")`
+* `print ('hello')`
+* `print (hello)`
 
 Let's do some maths!
 * `4 + 5`
@@ -29,7 +29,7 @@ Variables!
 * `second = "world"`
 * `first + " " + second`
 * `type(first)`
-* `print first`
+* `print (first)`
 
 User input?
 * `name = raw_input("What is your name?")`
@@ -60,7 +60,7 @@ In a file called `while_loop.py`, write the following code:
     i = 0
     while(i < 10):
         i = i + 1
-        print i
+        print (i)
 
 * Explain what's happening. Can you print the numbers from 7 to 19?
 * Can you print all the `even` numbers between 12 and 20?
@@ -70,14 +70,14 @@ In a file called `while_loop.py`, write the following code:
 In a file called `for_loop.py`, write the following code:
 
     for i in range(1,11):
-        print i
+        print (i)
 
 * Explain what's happening. What is `i`? What is `range`?
 
 Type the following code:
 
     for j in [1, 2, 3]:
-        print j
+        print (j)
 
 * Explain what's happening. How can you use `range` to do the same thing?
 * What's the `type` of `[1, 2, 3]`? What `type` of data does `range` return?
@@ -114,9 +114,9 @@ In a file called `conditional.py`, write the following code:
 
     i = 8
     if(i % 2 == 0):
-        print "Even Number"
+        print ("Even Number")
     else:
-        print "Odd Number"
+        print ("Odd Number")
 
 * What is `%`? What is `i % 2`?
 * Write a function called `evens` that takes a list of numbers and returns the sum of all the even numbers
@@ -129,7 +129,7 @@ In a file called `lists.py`, type the following code:
 
     list = []
     list.append(‘a’)
-    print list
+    print (list)
 
 * Explain what each line does.
 * Using the python you've already learned, write a function that:

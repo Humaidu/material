@@ -6,10 +6,10 @@ each bit of code before you move on.
 If you get something wrong, let us know! Other people may have done the same thing; maybe you
 can help them.
 
-## 1: Pip
-Hit `ctrl`+`alt`+`t` to bring up a terminal. Using the `pip` command:
+## 1: Pip3
+Hit `ctrl`+`alt`+`t` to bring up a terminal. Using the `pip3` command:
 * Show a list of all the packages installed on your system. Using only terminal commands, find out how many there are.
-* Use pip to install the `pandas` library. Pandas is a popular numerical library for Python. You can read about it [here](http://pandas.pydata.org/)
+* Use pip3 to install the `pandas` library. Pandas is a popular numerical library for Python3. You can read about it [here](http://pandas.pydata.org/)
 * Using terminal commands, find out if `beautifulsoup4` is installed. If it isn't, install it.
 
 ## 2: Filter, Map, Lambda!
@@ -97,4 +97,3 @@ Write another class called Student. Student inherits from Person and has the fol
 * The `constructor` also takes a String List of course names
 * get_courses() - returns the course list
 * speak() - in the subclass, prints "I'm so tired!"
-
