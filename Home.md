@@ -1,7 +1,7 @@
-# July 2017
+# July 2019
 
 ## Week 1
-| Day | Topic | Present | Slides | Labs | Wiki? | 2018 update? | 
+| Day | Topic | Present | Slides | Labs | Wiki? | 2019 update? | 
 |-----|-------|---------|--------|------|-------|--------------|
 |  1  | [[Introduction to Global Code\|introduction-to-global-code]] | [here](https://gitpitch.com/glblcd/material?p=intro-to-global-code) | Done | [[here \|intro-to-glblcd:-labs]] | Done |
 |  1  | [[Introduction to Raspberry Pi\|intro-to-raspberry-pi]] | [here](https://gitpitch.com/glblcd/material?p=intro-to-raspberry-pi) | | [here]( https://github.com/glblcd/material/blob/master/intro-to-raspberry-pi/Introduction-to-Raspberry-Pi.ipynb) | Done |

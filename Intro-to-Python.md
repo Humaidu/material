@@ -7,7 +7,7 @@
 
 ## Introduction
 
-The aim of this course is to introduce Python 2.7 as a modern, scalable, dynamic programming language with applicability on small but powerful hardware such as the Raspberry Pi.
+The aim of this course is to introduce Python 3 as a modern, scalable, dynamic programming language with applicability on small but powerful hardware such as the Raspberry Pi.
 
 We re-introduce core programming concepts such as typing, flow control, and modularity using the python syntax as a vehicle for learning. Concepts are taught and then reinforced with open-ended labwork, designed to be completed in pairs.
 
