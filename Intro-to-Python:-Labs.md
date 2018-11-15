@@ -13,7 +13,7 @@ Try the following in the Python REPL. What do they do?
 * `print (hello)`
 
 Let's do some maths!
-* `(4 + 5`)
+* `(4 + 5)`
 * `(8 * 3)`
 * `(4 / 3)`
 * `(4.0 / 3)`
