@@ -13,16 +13,16 @@ Try the following in the Python REPL. What do they do?
 * `print (hello)`
 
 Let's do some maths!
-* `4 + 5`
-* `8 * 3`
-* `4 / 3`
-* `4.0 / 3`
-* `3 + 5 * 9`
+* `(4 + 5`)
+* `(8 * 3)`
+* `(4 / 3)`
+* `(4.0 / 3)`
+* `(3 + 5 * 9)`
 
 Adding Strings?
-* `"abc" + "def"`
-* `"hello" + " " + "world"`
-* `"123" + "5"`
+* `("abc" + "def")`
+* `("hello" + " " + "world")`
+* `("123" + "5")`
 
 Variables!
 * `first = "hello"`
@@ -32,9 +32,9 @@ Variables!
 * `print (first)`
 
 User input?
-* `name = raw_input("What is your name?")`
+* `name = input("What is your name?")`
 * `type(name)`
-* `age = int(raw_input("What is your age?"))`
+* `age = input("What is your age?")`
 * `type(age)`
 
 Write some code that:
