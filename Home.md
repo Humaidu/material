@@ -12,12 +12,12 @@
 |  5  | Raspberry Pi and GPIO | | [[here\| Raspberry-Pi-GPIO:-Labs]] |
 
 ## Week 2
-| Day | Topic | Present | Slides | Labs | Wiki? |
-|-----|-------|---------|---------|-------|-------|
-|  1  | [[Advanced Python \|advanced-python]] | [here](https://gitpitch.com/glblcd/material?p=advanced-python) | | [[here\| advanced-python:-labs]] | Done |
+| Day | Topic | Present | Labs |
+|-----|-------|---------|------|
+|  1  | [[Advanced Python \|advanced-python]] | [here](https://gitpitch.com/glblcd/material?p=advanced-python) | | [[here\| advanced-python:-labs]] |
 |  2  | [[Introduction to Internet of Things \|intro-to-internet-of-things]] | [here](https://gitpitch.com/glblcd/material?p=intro-to-internet-of-things) |
-|  3  | [[Building a Web Application \|building-a-web-application]] | [here](https://gitpitch.com/glblcd/material?p=building-a-web-application) | Done | Internal | Done |
-|  4  | [[Hosting Platforms \|hosting-platforms]] | [here](https://gitpitch.com/glblcd/material?p=hosting-platforms) | | [[here\| Hosting-Platforms:-Labs]] | Done |
+|  3  | [[Building a Web Application \|building-a-web-application]] | [here](https://gitpitch.com/glblcd/material?p=building-a-web-application) | Internal |
+|  4  | [[Hosting Platforms \|hosting-platforms]] | [here](https://gitpitch.com/glblcd/material?p=hosting-platforms) | [[here\| Hosting-Platforms:-Labs]] |
 |  5  | [[Distributed Systems\|Distributed-Systems]] |
-|| [[MQTT with Python & Pi\| mqtt-with-python-and-pi ]] | | | |
-|| [[Cloud IoT platforms \|cloud-iot-platforms]] ||||
+|| [[MQTT with Python & Pi\| mqtt-with-python-and-pi ]] | |
+|| [[Cloud IoT platforms \|cloud-iot-platforms]] ||
