@@ -95,3 +95,6 @@ button.when_pressed = print_thing
 * Using different LEDs, write a traffic lights program. When the user presses a button, the traffic should stop and the pedestrian should be allowed to walk. After a while, traffic should be allowed to move again.
 
 * Going back to yesterday's Web APIs lab - make something interesting happen when you push the button!
+
+HINT:
+Why not try having the LED flash out your name in [Morse code](https://en.wikipedia.org/wiki/Morse_code)?
