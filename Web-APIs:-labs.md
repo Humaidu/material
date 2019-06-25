@@ -13,6 +13,9 @@ Don't forget to create a GitHub repo for your project, and check in regularly!
 
 > I'm taking a class about chatbots. we're learning how to use web apis and ifttt to build a weather bot that tweets the weather in the city you're in. we're learning about rate limiting so we're careful not to spam anyone! More info about our labs are here: https://github.com/glblcd/material/wiki/Web-APIs%3A-labs
 
+
+> I'm building a bot to use a weather API and then every hour it will tweet what the weather is like in my home town
+
 ### Distancebot!
 * Use [GeoPy](https://github.com/geopy/geopy) to build an app which takes any two cities and calculates the distance between them.
 
