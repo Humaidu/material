@@ -4,7 +4,7 @@
 | Day | Topic | Present | Labs |
 |-----|-------|---------|------|
 |  1  | [[Introduction to Global Code\|introduction-to-global-code]] | [here](https://gitpitch.com/glblcd/material?p=intro-to-global-code) | [[here \|intro-to-glblcd:-labs]] |
-|  1  | [[Introduction to Raspberry Pi\|intro-to-raspberry-pi]] | [here](https://gitpitch.com/glblcd/material?p=intro-to-raspberry-pi) | [here]( Introduction-to-Raspberry-Pi:-Labs) |
+|  1  | [[Introduction to Raspberry Pi\|intro-to-raspberry-pi]] | [here](https://gitpitch.com/glblcd/material?p=intro-to-raspberry-pi) | [[here\| Introduction-to-Raspberry-Pi:-Labs]] |
 |  1  | Introduction to Linux | | [here](https://github.com/glblcd/material/blob/master/intro-to-linux/Introduction-to-Linux.ipynb)
 |  2  | [[Introduction to Python\|intro-to-python]] | [here](https://gitpitch.com/glblcd/material?p=intro-to-python) | [here](https://github.com/glblcd/material/blob/master/intro-to-python/Introduction-to-Python.ipynb) | 
 |  3  | [[Introduction to Git and GitHub\|intro-to-git-and-github]] | [here](https://gitpitch.com/glblcd/material?p=intro-to-git-and-github) | [[here\| Intro-to-git-and-GitHub:-Labs]] |
