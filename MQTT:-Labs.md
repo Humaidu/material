@@ -56,3 +56,7 @@ Finally, we prevent the program from exiting by calling ```loop_forever```. This
 ```python
 client.loop_forever()
 ```
+
+## Exercises
+
+Work in pairs or groups, go back to your MQTT labs and refactor them to respond to messages over MQTT.
