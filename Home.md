@@ -19,5 +19,5 @@
 |  3  | [[Building a Web Application \|building-a-web-application]] | [here](https://gitpitch.com/glblcd/material?p=building-a-web-application) | Internal |
 |  4  | [[Hosting Platforms \|hosting-platforms]] | [here](https://gitpitch.com/glblcd/material?p=hosting-platforms) | [[here\| Hosting-Platforms:-Labs]] |
 |  5  | [[Distributed Systems\|Distributed-Systems]] |
-|| MQTT with Python & Pi | [here](https://gitpitch.com/glblcd/material?p=intro-to-MQTT) |||
+|| MQTT with Python & Pi | [here](https://gitpitch.com/glblcd/material?p=intro-to-MQTT) |[[here\|MQTT:-Labs]] |
 || [[Cloud IoT platforms \|cloud-iot-platforms]] ||
