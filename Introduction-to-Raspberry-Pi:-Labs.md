@@ -61,7 +61,7 @@ Find out:
 ## Play
 
 Go ahead and play around - it's your computer now! Try these things:
-* Change the background image to something you like. There's a bunch of great hi-res photography at [UnSplash](https://unsplash.com) :)
+* Change the background image to something you like. There's a bunch of great hi-res photography at [UnSplash](https://unsplash.com) and [Pexels](https://www.pexels.com/) :)
 * Change the appearance settings
 * Change the shortcuts in the application launch bar - I prefer the "Chromium Web Browser", for example.
 * Check your email and join our slack channel!
