@@ -15,7 +15,7 @@
 | Day | Topic | Present | Labs |
 |-----|-------|---------|------|
 |  1  | [[Advanced Python \|advanced-python]] | [here](https://gitpitch.com/glblcd/material?p=advanced-python) | | [[here\| advanced-python:-labs]] |
-|  2  | [[Introduction to Internet of Things \|intro-to-internet-of-things]] | [here](https://gitpitch.com/glblcd/material?p=intro-to-internet-of-things) |
+|  2  | [[Introduction to Internet of Things \|intro-to-internet-of-things]] | [here](https://gitpitch.com/glblcd/material?p=intro-to-internet-of-things) | [[here\| Intro-to-Internet-of-Things:-Labs]] |
 |  3  | [[Building a Web Application \|building-a-web-application]] | [here](https://gitpitch.com/glblcd/material?p=building-a-web-application) | Internal |
 |  4  | [[Hosting Platforms \|hosting-platforms]] | [here](https://gitpitch.com/glblcd/material?p=hosting-platforms) | [[here\| Hosting-Platforms:-Labs]] |
 |  5  | [[Distributed Systems\|Distributed-Systems]] |
