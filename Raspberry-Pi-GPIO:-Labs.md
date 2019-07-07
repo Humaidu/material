@@ -8,11 +8,11 @@ Create a github repo called `GPIO`, initialise a local repo at ~/GPIO, and setup
 
 Take one cable and connect one of the GPIO Ground pins ("GND") to one of the negative rails on the breadboard - near the blue line.
 
-![RPi GPIO Pinout](https://www.element14.com/community/servlet/JiveServlet/previewBody/73950-102-11-339300/pi3_gpio.png)
+![RPi GPIO Pinout](https://github.com/glblcd/material/blob/master/assets/img/pi3_gpio.png)
 
 ![breadboard](https://cdn-learn.adafruit.com/assets/assets/000/002/602/medium800/learn_arduino_breadboard_half.jpg)
 
-![LED & Button](https://raw.githubusercontent.com/iotinafrica/material/master/assets/img/led.png)
+![LED & Button](https://raw.githubusercontent.com/glblcd/material/master/assets/img/led.png)
 
 ### Code
 
