@@ -48,7 +48,7 @@ Write some code that:
 ## 2: Functions
 In a file called `person.py`:
 * Write a function called `get_age` that asks the user for their age, and returns it as an `int`
-* Write another function called `get_name`, which does the same but for the users age
+* Write another function called `get_name`, which does the same but for the users name.
 * Call both these functions and tell the user what you know about them!
 
 In a file called `my_maths.py`:
