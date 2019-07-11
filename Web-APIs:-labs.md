@@ -19,6 +19,9 @@ Don't forget to create a GitHub repo for your project, and check in regularly!
 ### Distancebot!
 * Use [GeoPy](https://github.com/geopy/geopy) to build an app which takes any two cities and calculates the distance between them.
 
+### Slack!
+* Use the [Slack API](https://api.slack.com/tutorials/tags/python) to build an app which posts to a channel in the GlobalCode Slack!
+
 ### Rock on!
 * Use the [LastFM API](http://www.last.fm/api) to tell a person about their favourite artist.
 
