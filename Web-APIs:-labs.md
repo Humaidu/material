@@ -21,6 +21,10 @@ Don't forget to create a GitHub repo for your project, and check in regularly!
 
 ### Slack!
 * Use the [Slack API](https://api.slack.com/tutorials/tags/python) to build an app which posts to a channel in the GlobalCode Slack!
+* Go to [api.slack.com](api.slack.com) and create an app. When prompted, sign in with the globalcode.slack.com workspace
+* Click through the prompts until you get to the bit about features. Enable a bot feature and give it a fun name
+* Finish creating the app and make note of the tokens. You'll need these to connect to the API
+* Head to [the GitHub docs](https://github.com/slackapi/python-slackclient/blob/master/tutorial/01-creating-the-slack-app.md) and learn how to get started. Note that the docs on api.slack.com seem to be out of date!
 
 ### Rock on!
 * Use the [LastFM API](http://www.last.fm/api) to tell a person about their favourite artist.
