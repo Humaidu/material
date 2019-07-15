@@ -34,6 +34,7 @@ Remember that a folding operation (sometimes called _reduce_) takes a collection
     total = fold(lambda item, running_total: item + running_total, [1, 2, 3, 4, 5])
     
 _**hint:**_ _`from functools import reduce`_
+###
 
 Write a function called `join_strings` that takes a list of words and uses `+` to join them all together. For example:
 
