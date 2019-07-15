@@ -32,6 +32,8 @@ Using the built-in function `not` and your function `is_even`, find another way 
 Remember that a folding operation (sometimes called _reduce_) takes a collection of data and returns one piece of data, by applying a function to all the items in order. An example might be to add up all the numbers in a list:
 
     total = fold(lambda item, running_total: item + running_total, [1, 2, 3, 4, 5])
+    
+_**hint:**_ _`from functools import reduce`_
 
 Write a function called `join_strings` that takes a list of words and uses `+` to join them all together. For example:
 
