@@ -6,7 +6,7 @@ In this lab, we're going to investigate [paho-mqtt](https://pypi.org/project/pah
 MQTT is a pub/sub framework for sending small messages between IoT devices. We've got an MQTT server set up which you can connect to for the rest of the program.
 
 If you like, you can set up a free MQTT server on your Heroku account: [[https://devcenter.heroku.com/articles/cloudmqtt]].
-Doing so will most likely require you to set up a credit card with Heroku though, so we'll skip that for today.
+Doing so will most likely require you to set up a bunch of passwords, usernames etc, so we'll skip that for today.
 
 ## Getting started
 Make sure you've got paho-mqtt installed:
