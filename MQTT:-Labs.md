@@ -99,7 +99,6 @@ Now we just need to run this function when paho connects, connect to the right s
 ```python
 client = mqtt.Client()
 client.on_connect = on_connect
-client = mqtt.Client()
 client.loop_forever()
 ```
 
