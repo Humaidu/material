@@ -23,9 +23,9 @@ Let's go back to your Web Application's project directory. To host your web app 
     Flask==1.1.1
 
 ### Procfile
-`Procfile` tells Heroku what to do when it starts up. Your `Procfile` should contain just one line (watch out, this filename begins with an uppercase `P`):
+`Procfile` tells Heroku what to do when it starts up. Your `Procfile` should contain just one line (watch out, this filename begins with an uppercase `P`). The `myapp:app` specifies the module (the python filename without `.py`) and application name (the `app` defined in the python file):
 
-    web: gunicorn -w 4 app:myapp.py
+    web: gunicorn -w 4 myapp:app
 
 ### runtime.txt
 `runtime.txt` tells Heroku which runtime to use in the environment.
