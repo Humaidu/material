@@ -108,3 +108,5 @@ you can now run `python3 send.py` and send messages!
 Work in pairs or groups, go back to your MQTT labs and refactor them to respond to messages over MQTT.
 
 You could try to automatically respond to messages (if they contain content) and build a personal assistant, change the colour of the text, etc.
+
+Make sure to create a new git repository from this code and push it up!
