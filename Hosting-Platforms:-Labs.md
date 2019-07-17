@@ -19,12 +19,18 @@ Let's go back to your Web Application's project directory. To host your web app 
 ### requirements.txt
 `requirements.txt` is used by `pip` to automatically install all the python modules you need on Heroku. Your app probably only uses flask:
 
+    gunicorn==19.9.0
     Flask==1.1.1
 
 ### Procfile
-`Procfile` tells Heroku what to do when it starts up. Your `Procfile` should contain just one line (watch out, this filename begins with an upercase `P`):
+`Procfile` tells Heroku what to do when it starts up. Your `Procfile` should contain just one line (watch out, this filename begins with an uppercase `P`):
 
-    web: python myapp.py
+    web: gunicorn -w 4 app:myapp.py
+
+### runtime.txt
+`runtime.txt` tells Heroku which runtime to use in the environment.
+
+    python-3.7.1
 
 ## Check it in
 Make sure to commit your two new files, and any other changes you've made - and then push them to github with `git push`
