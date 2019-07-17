@@ -15,7 +15,7 @@ Make sure you've got paho-mqtt installed:
 
 then make sure you have mosquitto installed on your computer. This little program will start a little message broker on your machine. the 2 pieces of code we write below will connect to it later.
 
-		sudo apt-get install mosquitto mosquitto-clients
+    sudo apt-get install mosquitto mosquitto-clients
 
 ## Code
 We're going to run 2 bits of code at the same time. One one end you'll have a terminal window later that receives the messages from the mqtt server and in an other window we'll send messages to the server.
