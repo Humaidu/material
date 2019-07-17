@@ -19,10 +19,10 @@ Let's go back to your Web Application's project directory. To host your web app 
 ### requirements.txt
 `requirements.txt` is used by `pip` to automatically install all the python modules you need on Heroku. Your app probably only uses flask:
 
-    Flask==0.10.1
+    Flask==1.1.1
 
 ### Procfile
-`Procfile` tells Heroku what to do when it starts up. Your `Procfile` should contain just one line:
+`Procfile` tells Heroku what to do when it starts up. Your `Procfile` should contain just one line (watch out, this file begins with an upercase `P`:
 
     web: python myapp.py
 
