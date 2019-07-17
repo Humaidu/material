@@ -22,7 +22,7 @@ Let's go back to your Web Application's project directory. To host your web app 
     Flask==1.1.1
 
 ### Procfile
-`Procfile` tells Heroku what to do when it starts up. Your `Procfile` should contain just one line (watch out, this file begins with an upercase `P`):
+`Procfile` tells Heroku what to do when it starts up. Your `Procfile` should contain just one line (watch out, this filename begins with an upercase `P`):
 
     web: python myapp.py
 
