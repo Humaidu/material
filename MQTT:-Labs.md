@@ -3,16 +3,29 @@
 In this lab, we're going to investigate [paho-mqtt](https://pypi.org/project/paho-mqtt/), a python library for MQTT.
 
 ## Introduction
-MQTT is a pub/sub framework for sending small messages between IoT devices. We've got an MQTT server set up which you can connect to for the rest of the program. If you like, you can set up a free MQTT server on your Heroku account: [[https://devcenter.heroku.com/articles/cloudmqtt]].
+MQTT is a pub/sub framework for sending small messages between IoT devices. We've got an MQTT server set up which you can connect to for the rest of the program.
+
+If you like, you can set up a free MQTT server on your Heroku account: [[https://devcenter.heroku.com/articles/cloudmqtt]].
+Doing so will most likely require you to set up a credit card with Heroku though, so we'll skip that for today.
 
 ## Getting started
 Make sure you've got paho-mqtt installed:
 
-    pip install paho-mqtt
+    pip3 install paho-mqtt
+
+then make sure you have mosquitto installed on your computer. This little program will start a little message broker on your machine. the 2 pieces of code we write below will connect to it later.
+
+		sudo apt-get install mosquitto mosquitto-clients
 
 ## Code
+We're going to run 2 bits of code at the same time. One one end you'll have a terminal window later that receives the messages from the mqtt server and in an other window we'll send messages to the server.
 
-First, import the library and alias it to ```mqtt```:
+We could have done both in the same window, but You'd end up receiving messages while trying to type, which is messy ;)
+
+### Reading messages
+create a new directory called `mosquitto` in your `~/dev` folder. In this folder we'll create a file called `read.py`
+
+open it in your favourite editor and import the library we pip installed earlier and alias it to ```mqtt```:
 
 ```python
 import paho.mqtt.client as mqtt
@@ -34,7 +47,7 @@ The ```on_message``` callback is called with the message object which contains `
 
 ```python
 def on_message(client, userdata, msg):
-    print(msg.topic+" "+str(msg.payload))
+    print(msg.topic + " \n " + msg.payload.decode("utf-8") + " \n " + )
 ```
 
 Next, we instantiate the MQTT client object and set up the callbacks
@@ -45,10 +58,10 @@ client.on_connect = on_connect
 client.on_message = on_message
 ```
 
-Once this is done, we can attempt to connect to the server. Your teachers will provide the hostname for this class.
+Once this is done, we can attempt to connect to the server. Your teachers will provide the ip address of his/her raspberry pi for the class.
 
 ```python
-client.connect("globalcode.org.uk", 1883, 60)
+client.connect("192.168.1.x", 1883, 60)
 ```
 
 Finally, we prevent the program from exiting by calling ```loop_forever```. This allows incoming messages to be handled. You can hit ```Ctrl-C``` to exit the program.
@@ -57,6 +70,42 @@ Finally, we prevent the program from exiting by calling ```loop_forever```. This
 client.loop_forever()
 ```
 
-## Exercises
+you can now execute the file with `python3 read.py`
 
+### Sending messages
+So you can now read messages, but none are sent yet! let's fix that.
+
+We'll create a new file called `send.py` and put some sending logic in there.
+
+First of all we need to import `paho`'s client as `mqtt` again
+
+```python
+import paho.mqtt.client as mqtt
+```
+
+with that done we'll define one function that warns us when we're ready to send messages. In that function we'll also put a loop to send messages.
+
+```python
+def on_connect(client, userdata, flags, rc):
+    print("Connected with result code "+str(rc))
+
+    while True:
+        message = input('Your message: ')
+        client.publish('glblcd/sam', message)
+```
+
+Now we just need to run this function when paho connects, connect to the right server and make sure the code doesn't stop!
+
+```python
+client = mqtt.Client()
+client.on_connect = on_connect
+client = mqtt.Client()
+client.loop_forever()
+```
+
+you can now run `python3 send.py` and send messages!
+
+## Exercises
 Work in pairs or groups, go back to your MQTT labs and refactor them to respond to messages over MQTT.
+
+You could try to automatically respond to messages (if they contain content) and build a personal assistant, change the colour of the text, etc.
