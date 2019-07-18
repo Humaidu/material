@@ -153,3 +153,5 @@ With the div in place, our body should look something like this:
   </div>
 </body>
 ```
+
+> I'm writing the rest of this page now, refresh the page if you managed to get this far already ;)
