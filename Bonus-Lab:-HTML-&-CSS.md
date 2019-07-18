@@ -225,5 +225,22 @@ body {
 
 We specify 3 fonts here so Microsoft Windows can use Arial, OSX can use Helvetica and Linux/Android can use sans-serif.
 
+Awesome. While we're at it, let's change the colour of the text a bit, so it's less black (again you can use your own hash codes). 
+
+```
+body {
+  background: #EEE;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #111;
+}
+```
+
+Now that looks a bit better for the eyes right?
+
+> So let's look back here for a second. when we want to style an element -- in this case `<body>` we can style it using its name in css.
+
+## Styling classes
+Sometimes, it happens that....
 
 > I'm writing the rest of this page now, refresh the page if you managed to get this far already ;)
+
