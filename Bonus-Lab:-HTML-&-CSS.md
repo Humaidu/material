@@ -191,5 +191,39 @@ Awesome. let's see if this works!
 
 Open your page, then hit either `F12` on your keyboard. or right click the page and tick `inspect element`. Are there any red errors?
 
-> I'm writing the rest of this page now, refresh the page if you managed to get this far already ;)
+## Styling tags
+The first thing we're going to do is to change the background colour of the page a bit. 
+Let's select the body-tag in our CSS and assign a background to it. Write the following in your style.css file.
 
+```
+body {
+  background: green;
+}
+```
+
+This looks quite aggressive doesn't it? Let's change that colour for a "hash value" that's slightly less green.
+
+```
+body {
+  background: #EEE;
+}
+```
+
+You can find your own "hash value" colours on this [handy website](https://www.w3schools.com/colors/colors_picker.asp).
+
+Now that we have the background-colour down, it's time to spice up the text a bit.
+
+Let's begin with fonts in general. The font-face that comes standard is quite boring, let's make it a bit fancier.
+Let's change the font for the entire page:
+
+```
+body {
+  background: #EEE;
+  font-family: Arial, Helvetica, sans-serif;
+}
+```
+
+We specify 3 fonts here so Microsoft Windows can use Arial, OSX can use Helvetica and Linux/Android can use sans-serif.
+
+
+> I'm writing the rest of this page now, refresh the page if you managed to get this far already ;)
