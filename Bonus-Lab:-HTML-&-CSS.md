@@ -176,4 +176,20 @@ You should now have a file structure like this:
   - runtime.txt
 ```
 
+Nice! let's tell our html page that we've gotten a nice new css file! in your index.html file add a new line to the header like this:
+
+```
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My fancy title!</title>
+  <link rel="stylesheet" href="/static/style.css" type="text/css">
+</head>
+```
+
+Awesome. let's see if this works!
+
+Open your page, then hit either `F12` on your keyboard. or right click the page and tick `inspect element`. Are there any red errors?
+
 > I'm writing the rest of this page now, refresh the page if you managed to get this far already ;)
+
