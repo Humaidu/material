@@ -49,6 +49,7 @@ this head tag would look something like this:
 ```
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>My fancy title!</title>
 </head>
 ```
@@ -65,3 +66,37 @@ def index():
 ```
 
 With this done, lets start the server and visit `localhost:5000` in the browser. Can you see where the "My fancy title!" we set is shown?
+
+With our head set up, it's time to define the second important part of our HTML: the "Body".
+
+The body in HTML is the part where we put everything that's visible. Let's insert something like this:
+
+```
+<body>
+  Hello World!
+</body>
+```
+
+With this done let's safe the document and open it in the browser!
+
+Do you see text?
+
+
+## Text styles
+In html we can use all kinds of text styles. some of them come built-in with the markup language.
+
+Try wrapping your hello world in `h1` tags:
+
+```
+<h1>Hello World!</h1>
+```
+
+Then create a new row and write an `h2` tag:
+
+```
+<h2>Sub-titles</h2>
+```
+
+Let's save it and open it!
+
+> When working with code (and especially HTML and CSS), it's important to make small changes, then try them out. This makes it easier to find the small misstakes you might have made
