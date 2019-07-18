@@ -82,7 +82,7 @@ With this done let's safe the document and open it in the browser!
 Do you see text?
 
 
-## Text styles
+### Text styles
 In html we can use all kinds of text styles. some of them come built-in with the markup language.
 
 Try wrapping your hello world in `h1` tags:
@@ -115,7 +115,7 @@ You can write it like this:
 Hey, what's that there? a `br` tag with a `/` in the end of it?  
 Jep, this is what we call **self-closing tags**. These special tags already close themselves, so there's no need to write a `</br>` after. `br` means "line-break" and will create... you guessed it a line-break!
 
-## Images
+### Images
 No page is finished without a nice picture. let's write bit of a hard tag to get our image in place.
 
 ```
@@ -123,7 +123,7 @@ No page is finished without a nice picture. let's write bit of a hard tag to get
 ```
 
 Our image has 2 special `attributes`; the `src=""` will tell the browser where to find the image and the `alt=""` attribute will tell the browser to show "place-holder" text when the image can't be loaded.
-## Links
+### Links
 It's nice to put some links in our page to help people find other pages. let's try one!
 
 ```
@@ -132,7 +132,7 @@ It's nice to put some links in our page to help people find other pages. let's t
 
 The `target` attribute here tells the browser that is should open the link in a new window or tab.
 
-## Divs
+### Divs
 Divs are a bit harder, and commonly used to style up the page. Divs are blocks that you can put on the page to position text, provide background-colours and all kinds of other shenanigans.
 
 We're going to wrap all that we've done so far in a div called container. Later when we get to CSS we'll do things with this div.
@@ -152,6 +152,28 @@ With the div in place, our body should look something like this:
     <a href="https://www.google.com" target="_blank">Go to Google</a>
   </div>
 </body>
+```
+
+## CSS
+Let's dive into the awesome world of CSS!
+With css we can give HTML pages colours, change font-faces, position elements, create animations and much more. In this lab we'll do some small css things, but feel free to spice up your own new start-page when you're done!
+
+To get things working we'll need a few new things in our project. First of all we need to create a new folder in our project called `static`. This static folder will hold our own images and css files.
+
+in the static folder create a new file called `style.css`
+
+You should now have a file structure like this:
+
+```
+- hello_world_site/
+  - static/
+    - style.css
+  - templates/
+    - index.html
+  - app.py (or myapp.py)
+  - Procfile
+  - requirements.txt
+  - runtime.txt
 ```
 
 > I'm writing the rest of this page now, refresh the page if you managed to get this far already ;)
