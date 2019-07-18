@@ -14,7 +14,7 @@ Remember your web server from the other day? We're now going to host it on the i
 This means you'll be able to see changes you make to your website in just a few seconds!
 
 ## Getting started
-Let's go back to your Web Application's project directory. To host your web app on Heroku, we'll need two extra files:
+Let's go back to your Web Application's project directory. To host your web app on Heroku, we'll need three extra files:
 
 ### requirements.txt
 `requirements.txt` is used by `pip` to automatically install all the python modules you need on Heroku. Your app probably only uses flask:
@@ -33,7 +33,7 @@ Let's go back to your Web Application's project directory. To host your web app 
     python-3.7.1
 
 ## Check it in
-Make sure to commit your two new files, and any other changes you've made - and then push them to github with `git push`
+Make sure to commit your three new files, and any other changes you've made - and then push them to github with `git push`
 
 ## Create the Heroku app
 Login to your Heroku dashboard, and create a new app. Give it a unique name, and place it in Europe.
