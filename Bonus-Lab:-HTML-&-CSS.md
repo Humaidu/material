@@ -99,4 +99,18 @@ Then create a new row and write an `h2` tag:
 
 Let's save it and open it!
 
-> When working with code (and especially HTML and CSS), it's important to make small changes, then try them out. This makes it easier to find the small misstakes you might have made
+> When working with code (and especially HTML and CSS), it's important to make small changes, then try them out. This makes it easier to find the small mistakes you might have made.
+
+Even though we not always use it, Paragraph-type text has it's own special tag too! `p`
+
+You can write it like this:
+
+```
+<p>
+  Some text <br />
+  A new line
+</p>
+```
+
+Hey, what's that there? a `br` tag with a `/` in the end of it?  
+Jep, this is what we call **self-closing tags**. These special tags already close themselves, so there's no need to write a `</br>` after. `br` means "line-break" and will create... you guessed it a line-break!
