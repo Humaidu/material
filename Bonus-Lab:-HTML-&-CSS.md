@@ -114,3 +114,42 @@ You can write it like this:
 
 Hey, what's that there? a `br` tag with a `/` in the end of it?  
 Jep, this is what we call **self-closing tags**. These special tags already close themselves, so there's no need to write a `</br>` after. `br` means "line-break" and will create... you guessed it a line-break!
+
+## Images
+No page is finished without a nice picture. let's write bit of a hard tag to get our image in place.
+
+```
+  <img src="https://media0.giphy.com/media/d1FGkFLpizR8yQne/giphy.gif" alt="Awesome">
+```
+
+Our image has 2 special `attributes`; the `src=""` will tell the browser where to find the image and the `alt=""` attribute will tell the browser to show "place-holder" text when the image can't be loaded.
+## Links
+It's nice to put some links in our page to help people find other pages. let's try one!
+
+```
+<a href="https://www.google.com" target="_blank">Go to Google</a>
+```
+
+The `target` attribute here tells the browser that is should open the link in a new window or tab.
+
+## Divs
+Divs are a bit harder, and commonly used to style up the page. Divs are blocks that you can put on the page to position text, provide background-colours and all kinds of other shenanigans.
+
+We're going to wrap all that we've done so far in a div called container. Later when we get to CSS we'll do things with this div.
+
+With the div in place, our body should look something like this:
+
+```
+<body>
+  <div>
+    <h1>Hello World!</h1>
+    <h2>Foo bar</h2>
+    <p>
+      Some text <br />
+      A new line
+    </p>
+    <img src="https://media0.giphy.com/media/d1FGkFLpizR8yQne/giphy.gif?cid=790b76115d3034d33045472f4d47b0cb&rid=giphy.gif" alt="Awesome">
+    <a href="https://www.google.com" target="_blank">Go to Google</a>
+  </div>
+</body>
+```
