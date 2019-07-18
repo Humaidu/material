@@ -239,8 +239,68 @@ Now that looks a bit better for the eyes right?
 
 > So let's look back here for a second. when we want to style an element -- in this case `<body>` we can style it using its name in css.
 
-## Styling classes
-Sometimes, it happens that....
+### Styling classes
+Sometimes, it happens that your page has a lot of `<p>` tags, and you only want to apply some style a few. For this we have a system called classes. With this we can "classify" special cases. Lets try it!
+
+Go back into your index.html and create a copy of the `<p>` block and put it underneath it. A bit like this:
+
+```
+    <p>
+      Some text <br />
+      A new line
+    </p>
+    <p>
+      Some text <br />
+      A new line
+    </p>
+```
+
+Okidoki. let's give the first block a class now.
+
+```
+<p class="important-notice">
+```
+
+With this down, we can now write a special bit of css markup. Let's head back to the style.css file and insert some new css underneath our body css.
+
+```
+.important-notice {
+  text-decoration: underline;
+}
+```
+
+The `.` in front of the name in css, tells the browser that this applies to objects with classes called "important-notice".
+You could also write `p.important-notice` to only apply the style on `paragraph`-tags with the class `important-notice`
+
+### Styling Id's
+
+In the previous step we styled something using classes. When you style something with classes, any number of objects can have the same class-name. Sometimes, you want to apply a style only to one object. When that happens you probably want to use an `id` instead. Let's try that out!
+
+Let's take the second `p`-tag (the one you haven't given a class) and give it an ID.
+
+```
+<p id="italic-notice">
+  Some text <br />
+  A new line
+</p>
+```
+
+Okay, that's in place now isn't it? Let's head back to the style.css file and insert some code.
+
+```
+#italic-notice {
+  font-style: italic;
+}
+```
+
+Okay, so when you want to style an `id` you prefix its name with `#` in CSS. This `#` will work in other places too.
+
+The title to the section you're reading on this website right now was written like this: 
+
+> Now is probably a good time to commit your work to git.
+
+### Styling blocks
+With our classes done now....
 
 > I'm writing the rest of this page now, refresh the page if you managed to get this far already ;)
 
