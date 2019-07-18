@@ -51,3 +51,10 @@ This might take some time, but you can watch the activity in the log output on t
 
 ## Go see!
 Hit the "Open App" button at the top of the screen to browse to your website. Tell your family and friends!
+
+## Install the Heroku CLI
+If you encounter a problem in your application, you won't be able to see the error message directly. Instead, you should install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) by running the command
+
+    curl https://cli-assets.heroku.com/install.sh | sh
+
+and then you can use the 'heroku logs' command on your Raspberry Pi to view the logs.
