@@ -297,10 +297,87 @@ Okay, so when you want to style an `id` you prefix its name with `#` in CSS. Thi
 
 The title to the section you're reading on this website right now was written like this: 
 
+```
+<h3 id="styling-ids">Styling Id's</h3>
+```
+
+so when you visit: https://github.com/glblcd/material/wiki/Bonus-Lab:-HTML-&-CSS#styling-ids the browser will automatically scroll to it! Awesome huh?
+
 > Now is probably a good time to commit your work to git.
 
 ### Styling blocks
-With our classes done now....
+With our classes, ids and other things behind us now, let's look at that `Div` we made earlier. We can style this one up in a lot of funny ways. 
 
-> I'm writing the rest of this page now, refresh the page if you managed to get this far already ;)
+Lets begin by giving our existing div a class called `container`
 
+```
+<div clas="container">
+```
+
+
+Then in our CSS we'll give it a nice background colour:
+
+```
+.container {
+  background: #FFF;
+}
+```
+
+when looking at this in the browser, the page is waaay to big. so lets give it a max-width.
+
+```
+.container {
+  background: #FFF;
+  max-width: 960px;
+}
+```
+
+Okay, that's better, but the text is a bit to close to the sides right?
+
+```
+.container {
+  background: #FFF;
+  max-width: 960px;
+  padding: 10px;
+}
+```
+
+But now we start to see that the entire page has some kind of space around it. that's pretty bad. To fix this we'll need to write a small new rule in the css:
+
+```
+html, body {
+  padding: 0;
+  margin: 0;
+}
+```
+
+When we add a `,` to our invocation, the rules below will apply to both the `<html>`-tag and the `<body>`-tag. 
+
+> Remember, spaces between things have big impact in CSS!
+
+Now that weird spacing is gone! But the page isn't really centered. For this we're going to hack CSS a bit. Go back to the `.container` block in css and add a few new lines.
+
+```
+.container {
+  background: #FFF;
+  max-width: 960px;
+  padding: 10px;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-left: auto;
+}
+```
+
+Now we have a fancy page!
+
+Let's commit your work and commit it away, then try to make your own home-page that includes a nice header, some info about yourself and a footer.
+
+You can also experiment with background pictures, an example of that can be found on this page [Peter made earlier](https://ssb-pub.picodevelopment.nl/). 
+
+When you want to go next level, you can also make some "brutalist websites" like the ones below:
+
+- https://davidmerrique.hashbase.io/
+- https://coolguy.website/chill/
+- https://coolguy.website/
+- http://sometimesredsometimesblue.com/
