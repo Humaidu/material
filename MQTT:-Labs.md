@@ -81,26 +81,51 @@ First of all we need to import `paho`'s client as `mqtt` again
 
 ```python
 import paho.mqtt.client as mqtt
+import time
 ```
 
-with that done we'll define one function that warns us when we're ready to send messages. In that function we'll also put a loop to send messages.
+with that done we'll define one function that warns us when we're ready to send messages. In that function we set `Connected` to `True`.
 
 ```python
 def on_connect(client, userdata, flags, rc):
-    print("Connected with result code "+str(rc))
+    if rc == 0:
+        print("Connected to broker")
+        global Connected  # Use global variable
+        Connected = True  # Signal connection
 
-    while True:
-        message = input('Your message: ')
-        client.publish('glblcd/sam', message)
+    else:
+        print("Connection failed")
 ```
 
-Now we just need to run this function when paho connects, connect to the right server and make sure the code doesn't stop!
-
+Then we initialize `Connected` to `False`
+```python
+Connected = False  # global variable for the state of the connection
+```
+Then we need to run this function when paho connects, connect to the right server and start the loop:
 ```python
 client = mqtt.Client()
 client.on_connect = on_connect
-client.loop_forever()
+client.connect("192.168.1.x", 1883, 60)
+client.loop_start()  # start the loop
 ```
+Then we sleep until it's connected to server:
+```python
+while Connected != True:  # Wait for connection
+    time.sleep(0.1)
+```
+
+Now we just need to have a while loop waiting for user input and send the message, remember to disconnect and stop the client loop when the program is interrupted.
+```python
+try:
+    while True:
+        message = input('Your message:')
+        client.publish("glblcd/sam", message)
+
+except KeyboardInterrupt:
+    client.disconnect()
+    client.loop_stop()
+```
+
 
 you can now run `python3 send.py` and send messages!
 
