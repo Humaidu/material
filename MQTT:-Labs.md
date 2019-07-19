@@ -47,7 +47,7 @@ The ```on_message``` callback is called with the message object which contains `
 
 ```python
 def on_message(client, userdata, msg):
-    print(msg.topic + " \n " + msg.payload.decode("utf-8") + " \n " + )
+    print(msg.topic + " \n " + msg.payload.decode("utf-8") + " \n ")
 ```
 
 Next, we instantiate the MQTT client object and set up the callbacks
