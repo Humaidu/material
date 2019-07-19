@@ -118,7 +118,7 @@ Now we just need to have a while loop waiting for user input and send the messag
 ```python
 try:
     while True:
-        message = input('Your message:')
+        message = input('Your message: ')
         client.publish("glblcd/sam", message)
 
 except KeyboardInterrupt:
