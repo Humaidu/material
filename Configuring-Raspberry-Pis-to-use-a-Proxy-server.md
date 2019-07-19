@@ -1,4 +1,6 @@
-If you find yourself in a network that requires a proxy server set up, here's some steps to get you going. We started from the [Raspberry Pi documentation](https://www.raspberrypi.org/documentation/configuration/use-a-proxy.md), but tried to switch to as few manual steps as possible so we could run round the classroom to configure everyone!
+If you find yourself in a network that requires a proxy server set up... good luck. We had problems with MQTT that we weren't able to resolve but everything else worked.
+
+Here's some steps to get you going. We started from the [Raspberry Pi documentation](https://www.raspberrypi.org/documentation/configuration/use-a-proxy.md), but tried to switch to as few manual steps as possible so we could run round the classroom to configure everyone!
 
 Replace `http://192.168.32.3:3128` with whatever the appropriate proxy server configuration is for your network. 
 
