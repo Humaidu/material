@@ -18,5 +18,7 @@
 |  2  | [[Introduction to Internet of Things \|intro-to-internet-of-things]] | [here](https://aisha-glblcd.github.io/material/intro-to-internet-of-things) | [[here\| Intro-to-Internet-of-Things:-Labs]] |
 |  3  | [[Building a Web Application \|building-a-web-application]] | [here](https://aisha-glblcd.github.io/material/building-web-applications) | Internal |
 |  4  | [[Hosting Platforms \|hosting-platforms]] | [here](https://aisha-glblcd.github.io/material/hosting-platforms) | [[here\| Hosting-Platforms:-Labs]] |
-|| MQTT with Python & Pi | [here](https://aisha-glblcd.github.io/material/intro-to-mqtt) |[[here\|MQTT:-Labs]] |
+|5| MQTT with Python & Pi | [here](https://aisha-glblcd.github.io/material/intro-to-mqtt) |[[here\|MQTT:-Labs]] |
 || [[Cloud IoT platforms \|cloud-iot-platforms]] ||
+
+## Week 3 - Group Project Week
