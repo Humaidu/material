@@ -1,4 +1,4 @@
-# ![IoT in Africa](../blob/master/assets/img/2023GlobalCodeLogo_Dark.png?raw=true) 
+# ![Global Code](../blob/master/assets/img/2023GlobalCodeLogo_Dark.png) 
 
 Introduction to Raspberry Pi
 ## Teaching Materials
