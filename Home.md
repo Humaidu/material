@@ -6,7 +6,7 @@
 |  1  | [[Introduction to Global Code\|introduction-to-global-code]] | [here](https://aisha-glblcd.github.io/material/intro-to-global-code) | [[here \|intro-to-glblcd:-labs]] |
 |  1  | [[Introduction to Raspberry Pi\|intro-to-raspberry-pi]] | [here](https://aisha-glblcd.github.io/material/intro-to-raspberry-pi) | [[here\| Introduction-to-Raspberry-Pi:-Labs]] |
 |  1  | Introduction to Linux | | [[here\| Introduction-to-Linux:-Labs]] |
-|  2  | [[Introduction to Python\|intro-to-python]] | [here](https://aisha-glblcd.github.io/material/intro-to-global-code/python-what-is-python) | [[here\| Intro-to-Python:-Labs]] | 
+|  2  | [[Introduction to Python\|intro-to-python]] | [here](https://aisha-glblcd.github.io/material/python-what-is-python) | [[here\| Intro-to-Python:-Labs]] | 
 |  3  | [[Introduction to Git and GitHub\|intro-to-git-and-github]] | [here](https://aisha-glblcd.github.io/material/intro-to-git-and-github) | [[here\| Intro-to-git-and-GitHub:-Labs]] |
 |  4  | [[Web APIs\|web-apis]] | [here](https://aisha-glblcd.github.io/material/web-apis) | [[here \|web-apis:-labs]] | 
 |  5  | Raspberry Pi and GPIO | | [[here\| Raspberry-Pi-GPIO:-Labs]] |
