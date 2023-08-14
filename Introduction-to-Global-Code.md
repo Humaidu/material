@@ -2,8 +2,8 @@
 
 ## Teaching Materials
 
-[Teaching Slides](https://gitpitch.com/glblcd/material?p=intro-to-global-code)
-| [[Labs|intro-to-global-code:-labs]]
+[Teaching Slides](https://aisha-glblcd.github.io/material/intro-to-global-code)
+| [[Labs|intro-to-iotinafrica:-labs]]
 
 ## Introduction
 
