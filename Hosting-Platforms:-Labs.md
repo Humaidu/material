@@ -1,6 +1,6 @@
 # ![Hosting Platforms: Labs](../blob/master/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png?raw=true) 
 
-In this lab, we're going to investigate [Heroku](https://www.heroku.com/). Head over there and sign up for an account - it's free!
+In this lab, we're going to investigate [Render](https://render.com/) Head over there and sign up for an account - it's free!
 
 ## Intro
 Remember your web server from the other day? We're now going to host it on the internet so you can browse to it. If you want to make changes to your website, you'll use the following flow:
@@ -8,53 +8,30 @@ Remember your web server from the other day? We're now going to host it on the i
 * Sync your local dev environment to your website's github repo
 * Make your changes locally & commit them
 * Push your changes to github
-* Heroku sees that your github repo has changed & syncs the changes
-* Heroku restarts your dyno
+* Render sees that your github repo has changed & syncs the changes
+* Render restarts your dyno
 
 This means you'll be able to see changes you make to your website in just a few seconds!
 
 ## Getting started
-Let's go back to your Web Application's project directory. To host your web app on Heroku, we'll need three extra files:
+Let's go back to your Web Application's project directory. To host your web app on Render, we'll need an extra file:
 
 ### requirements.txt
 `requirements.txt` is used by `pip` to automatically install all the python modules you need on Heroku. Your app probably only uses flask:
 
-    gunicorn==19.9.0
-    Flask==1.1.1
+    gunicorn==21.2.0
+    Flask==2.5.5
 
-### Procfile
-`Procfile` tells Heroku what to do when it starts up. Your `Procfile` should contain just one line (watch out, this filename begins with an uppercase `P`). The `myapp:app` specifies the module (the python filename without `.py`) and application name (the `app` defined in the python file):
-
-    web: gunicorn -w 4 myapp:app
-
-### runtime.txt
-`runtime.txt` tells Heroku which runtime to use in the environment.
-
-    python-3.7.1
 
 ## Check it in
-Make sure to commit your three new files, and any other changes you've made - and then push them to github with `git push`
+Make sure to commit your new file, and any other changes you've made - and then push them to github with `git push`
 
-## Create the Heroku app
-Login to your Heroku dashboard, and create a new app. Give it a unique name, and place it in Europe.
-
-## Link the app to Github
-In your app's _deploy_ settings, choose the _Github_ deployment method. Type your repo's name in the box and hit 'Search'. Find the right repo and hit 'connect'
-
-## Enable automatic deploys
-Next, scroll down and enable automatic deploys for your project. This means that whenever you make a change to your repo on Github, Heroku will attempt to grab the changes and publish them to the web.
-
-## Deploy once
-Finally, scroll down to the bottom of the page and hit the "Deploy" button. This does a first-time deploy of the code in your github repo.
-
-This might take some time, but you can watch the activity in the log output on the screen. If there are any problems with your setup, this is where they'll appear.
+## Create the Render app
+* Login to your Render dashboard 
+* create a new app by clicking on the new button and select web service
+* Give Render permission to access your github repos and select the one you want to deploy by clicking on the connect button
+* Give it a unique name
+* click on Create Web Service to deploy your application.
 
 ## Go see!
-Hit the "Open App" button at the top of the screen to browse to your website. Tell your family and friends!
-
-## Install the Heroku CLI
-If you encounter a problem in your application, you won't be able to see the error message directly. Instead, you should install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) by running the command
-
-    curl https://cli-assets.heroku.com/install.sh | sh
-
-and then you can use the 'heroku logs' command on your Raspberry Pi to view the logs.
+Hit the application link at the top left corner of the screen to browse to your website. Tell your family and friends!
